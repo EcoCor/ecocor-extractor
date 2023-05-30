@@ -28,6 +28,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
+DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/organisms_known_by_common_name.json"
 
 class Language(str, Enum):
     EN = "en"
@@ -57,7 +58,7 @@ class UrlDescriptor(BaseModel):
 class SegmentWordListUrl(BaseModel):
     segments: list[Segment]
     word_list: UrlDescriptor = UrlDescriptor(
-        url="https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/organisms_known_by_common_name.json"
+        url=DEFAULT_WORD_LIST_URL
     )
     language: Language
 
@@ -92,9 +93,6 @@ def setup_analysis_components(language: Language):
         initialize_en()
 
 
-# can we get a list here? or hug magic
-# language should be in ?language=de and should be read automatically here
-# how is the resouce url (word list) passed?
 @app.post("/extractor")
 def process_text(segments_word_list: SegmentWordListUrl) -> list[WordInfoFrequency]:
     word_list = read_word_list(segments_word_list.word_list.url)
