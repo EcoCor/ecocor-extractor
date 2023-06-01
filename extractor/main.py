@@ -8,9 +8,9 @@ saved.
 
 Input Format: {"segments": [{"segment_id":"xyz", "text":"asd ..."}, ...], "language":"de",
 "word_list":{"url":"http://..."}}
-WordList Format: {"word_list": [{"word":abc, "wikidata_ID":"Q12345","category":"plant"},{...}],
+WordList Format: {"word_list": [{"word":abc, "wikidata_ids":"Q12345","category":"plant"},{...}],
 "metadata":{"description":"abcd"}]
-Output Format: [{"word":"xyz", "wikidata_ID":["Q12345"],"category":"plant",
+Output Format: [{"word":"xyz", "wikidata_ids":["Q12345"],"category":"plant",
 "overall_frequency":1234, "segment_frequencies":{segment_id:1234,...}}] 
 -> only of words that appear at least once in the text
 
@@ -44,7 +44,7 @@ class Segment(BaseModel):
 
 class WordInfo(BaseModel):
     word: str
-    wikidata_ID: list[str]
+    wikidata_ids: list[str]
     category: str
 
 
@@ -83,8 +83,10 @@ def root():
 
 # TODO: handle exception nicer?
 def read_word_list(url: str) -> WordInfoMeta:
+    print(url)
     response = requests.get(url)
     response.raise_for_status()
+    print(response.json())
     word_info_meta = WordInfoMeta(**response.json())
     return word_info_meta
 
