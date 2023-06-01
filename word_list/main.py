@@ -12,8 +12,8 @@ germanet = pl.read_json("data/germanet_animal_plant.json")
 
 lookup_df = pl.DataFrame(schema={"wikidata_id": pl.Utf8, "word": pl.Utf8})
 
-# Dataframe to gather entries without category
-df_no_category = pl.DataFrame()
+# Dataframe to gather entries with category but without wikidata_id
+df_category = pl.DataFrame()
 
 # Read in all files
 for file in glob("data/*.tsv"):
@@ -25,21 +25,18 @@ for file in glob("data/*.tsv"):
         lookup_df = lookup_df.vstack(file_df)
         continue
 
-    # Files with category column: Collect in df_no_category
-    df_no_category = df_no_category.vstack(file_df.select(germanet.columns))
+    # Files with category column: Collect in df_category
+    df_category = df_category.vstack(file_df.select(germanet.columns))
 
+# vstack GermaNet on df_category
+df_category = df_category.vstack(germanet).unique(keep="first")
+print("df_category", df_category)
 
-# Remove duplicates
+# Remove duplicates from lookup_df
 lookup_df = lookup_df.unique(keep="first")
 
-# Join germanet and lookup_df
-joined_df = germanet.join(lookup_df, on="word", how="left")
-
-# vstack df_no_category
-joined_df = joined_df.vstack(
-    # Create null wikidata_id column for vstack
-    df_no_category.with_columns(wikidata_id=pl.lit(None).cast(pl.Utf8))
-).filter(
+# Add wikidata IDs: Join df_category entries with lookup_df
+joined_df = df_category.join(lookup_df, on="word", how="left").filter(
     # Remove entries without category
     pl.col("category").is_not_null()
 )
