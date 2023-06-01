@@ -7,30 +7,38 @@ from glob import glob
 import json
 from datetime import datetime
 
-# Columns: word, category
-germanet = pl.read_json("data/germanet_animal_plant.json")
 
 lookup_df = pl.DataFrame(schema={"wikidata_id": pl.Utf8, "word": pl.Utf8})
 
 # Dataframe to gather entries with category but without wikidata_id
 df_category = pl.DataFrame()
 
+# Columns: word, category
+germanet = pl.read_json("data/germanet_animal_plant.json")
+
+# Add GermaNet entries to this
+df_category = df_category.vstack(germanet.select(["word", "category"]))
+
 # Read in all files
 for file in glob("data/*.tsv"):
     # Read file
     file_df = pl.read_csv(file, separator="\t")
 
-    # Files without category column: Add to lookup_df for joining with GermaNet
+    # Files without category column: Add to lookup_df for joining with df_category
     if "category" not in file_df.columns:
         lookup_df = lookup_df.vstack(file_df)
+        continue
+
+    # Files with wikidata_id column: Add to lookup_df for joining with df_category
+    if "wikidata_id" in file_df.columns:
+        lookup_df = lookup_df.vstack(file_df.select(["wikidata_id", "word"]))
         continue
 
     # Files with category column: Collect in df_category
     df_category = df_category.vstack(file_df.select(germanet.columns))
 
-# vstack GermaNet on df_category
-df_category = df_category.vstack(germanet).unique(keep="first")
-print("df_category", df_category)
+# Remove duplicates
+df_category = df_category.unique(keep="first")
 
 # Remove duplicates from lookup_df
 lookup_df = lookup_df.unique(keep="first")
