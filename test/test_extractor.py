@@ -21,5 +21,7 @@ class TestExtractor(unittest.TestCase):
         with EXPECTED_RESULT_FILE.open() as result_in:
             result_expected = json.load(result_in)
         result = process_text(segments_word_list)
-        result_list = [entry.dict() for entry in result]
-        self.assertCountEqual(result_list, result_expected)
+        result = result.dict()
+        self.assertTrue("metadata" in result)
+        self.assertTrue("word_list" in result)
+        self.assertCountEqual(result["word_list"], result_expected["word_list"])
