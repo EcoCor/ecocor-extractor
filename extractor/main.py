@@ -83,10 +83,8 @@ def root():
 
 # TODO: handle exception nicer?
 def read_word_list(url: str) -> WordInfoMeta:
-    print(url)
     response = requests.get(url)
     response.raise_for_status()
-    print(response.json())
     word_info_meta = WordInfoMeta(**response.json())
     return word_info_meta
 
