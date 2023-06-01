@@ -44,7 +44,6 @@ class Segment(BaseModel):
 
 class NameInfo(BaseModel):
     name: str
-    #wikidata_ids: list[str]
     wikidata_ids: str
     category: str
 
@@ -158,7 +157,6 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
             )
     result = NameInfoFrequencyMeta(entity_list=name_info_frequency, metadata=name_info_meta.metadata)
 
-    print(result)
     return result
 
 
