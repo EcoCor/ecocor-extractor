@@ -8,8 +8,9 @@ saved.
 
 Input Format: {"segments": [{"segment_id":"xyz", "text":"asd ..."}, ...], "language":"de",
 "word_list":{"url":"http://..."}}
-WordList Format: [{"word":abc, "wikidata_ID":"Q12345","category":"plant"}]
-Output Format: [{"word":"xyz", "wikidata_ID":"Q12345","category":"plant",
+WordList Format: {"word_list": [{"word":abc, "wikidata_ID":"Q12345","category":"plant"},{...}],
+"metadata":{"description":"abcd"}]
+Output Format: [{"word":"xyz", "wikidata_ID":["Q12345"],"category":"plant",
 "overall_frequency":1234, "segment_frequencies":{segment_id:1234,...}}] 
 -> only of words that appear at least once in the text
 
@@ -18,6 +19,7 @@ for English and German must be downloaded: `de_core_news_sm`, `en_core_web_sm` "
 
 import sys
 from pydantic.networks import HttpUrl
+from datetime import date
 import requests
 from collections import Counter
 from enum import Enum
@@ -28,7 +30,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/organisms_known_by_common_name.json"
+DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/combined-word-list/word_list/combined_word_list.json"
 
 class Language(str, Enum):
     EN = "en"
@@ -42,18 +44,29 @@ class Segment(BaseModel):
 
 class WordInfo(BaseModel):
     word: str
-    wikidata_ID: str
+    wikidata_ID: list[str]
     category: str
 
 
+class WordMetadata(BaseModel):
+    name: str
+    description: str
+    date: date  
+    
 class WordInfoFrequency(WordInfo):
     segment_frequencies: dict[str, int]
     overall_frequency: int
 
+class WordInfoMeta(BaseModel):
+    metadata: WordMetadata
+    word_list: list[WordInfo]
+
+class WordInfoFrequencyMeta(BaseModel):
+    metadata: WordMetadata
+    word_list: list[WordInfoFrequency]
 
 class UrlDescriptor(BaseModel):
     url: HttpUrl
-
 
 class SegmentWordListUrl(BaseModel):
     segments: list[Segment]
@@ -69,11 +82,11 @@ def root():
 
 
 # TODO: handle exception nicer?
-def read_word_list(url: str) -> list[WordInfo]:
+def read_word_list(url: str) -> WordInfoMeta:
     response = requests.get(url)
     response.raise_for_status()
-    word_list = [WordInfo(**entry) for entry in response.json()]
-    return word_list
+    word_info_meta = WordInfoMeta(**response.json())
+    return word_info_meta
 
 
 def initialize_de():
@@ -94,17 +107,17 @@ def setup_analysis_components(language: Language):
 
 
 @app.post("/extractor")
-def process_text(segments_word_list: SegmentWordListUrl) -> list[WordInfoFrequency]:
-    word_list = read_word_list(segments_word_list.word_list.url)
+def process_text(segments_word_list: SegmentWordListUrl) -> WordInfoFrequencyMeta:
+    word_info_meta = read_word_list(segments_word_list.word_list.url)
     word_to_word_info = {}
 
-    for entry in word_list:
+    for entry in word_info_meta.word_list:
         if entry.word not in word_to_word_info:
             word_to_word_info[entry.word] = []
         word_to_word_info[entry.word].append(entry.dict())
 
     setup_analysis_components(segments_word_list.language)
-    unique_words = set([entry.word for entry in word_list])
+    unique_words = set([entry.word for entry in word_info_meta.word_list])
 
     # annotate
     word_to_segment_frq = {}
@@ -130,7 +143,7 @@ def process_text(segments_word_list: SegmentWordListUrl) -> list[WordInfoFrequen
                 segments_word_list.segments[i].segment_id
             ] = counted[word]
 
-    result = []
+    word_info_frequency = []
     all_segment_ids = [entry.segment_id for entry in segments_word_list.segments]
     for word, segment_frq in word_to_segment_frq.items():
         segment_frq_zero_filled = {
@@ -142,13 +155,16 @@ def process_text(segments_word_list: SegmentWordListUrl) -> list[WordInfoFrequen
         word_infos = word_to_word_info[word]
         overall_frequency = sum(segment_frq.values())
         for word_info in word_infos:
-            result.append(
+            word_info_frequency.append(
                 WordInfoFrequency(
                     segment_frequencies=segment_frq_zero_filled,
                     overall_frequency=overall_frequency,
                     **word_info,
                 )
             )
+    result = WordInfoFrequencyMeta(word_list=word_info_frequency, metadata=word_info_meta.metadata)
+
+    print(result)
     return result
 
 
