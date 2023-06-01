@@ -1,18 +1,18 @@
 #!/usr/bin/env/python
 
-""" EcoCor Extractor This script extracts frequencies of words from a given word list in
+""" EcoCor Extractor This script extracts frequencies of names from a given name list in
 text segments. As input a JSON object is passed over an API which saves the text segment
-and their IDs and optionally a URL to the word list on which basis the freqeuncies are
-extracted. It returns a JSON in which for each word the frequency per text segment is
+and their IDs and optionally a URL to the name list on which basis the freqeuncies are
+extracted. It returns a JSON in which for each name the frequency per text segment is
 saved.
 
 Input Format: {"segments": [{"segment_id":"xyz", "text":"asd ..."}, ...], "language":"de",
-"word_list":{"url":"http://..."}}
-WordList Format: {"word_list": [{"word":abc, "wikidata_ids":"Q12345","category":"plant"},{...}],
+"entity_list":{"url":"http://..."}}
+EntityList Format: {"entity_list": [{"name":abc, "wikidata_ids":"Q12345","category":"plant"},{...}],
 "metadata":{"description":"abcd"}]
-Output Format: [{"word":"xyz", "wikidata_ids":["Q12345"],"category":"plant",
+Output Format: [{"name":"xyz", "wikidata_ids":["Q12345"],"category":"plant",
 "overall_frequency":1234, "segment_frequencies":{segment_id:1234,...}}] 
--> only of words that appear at least once in the text
+-> only of names that appear at least once in the text
 
 This scripts requires `spacy` and `FastAPI` to be installed. Additionally the spacy models
 for English and German must be downloaded: `de_core_news_sm`, `en_core_web_sm` """
@@ -30,7 +30,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/combined-word-list/word_list/combined_word_list.json"
+DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/organisms_known_by_common_name.json" 
 
 class Language(str, Enum):
     EN = "en"
@@ -42,35 +42,36 @@ class Segment(BaseModel):
     segment_id: str
 
 
-class WordInfo(BaseModel):
-    word: str
-    wikidata_ids: list[str]
+class NameInfo(BaseModel):
+    name: str
+    #wikidata_ids: list[str]
+    wikidata_ids: str
     category: str
 
 
-class WordMetadata(BaseModel):
+class NameMetadata(BaseModel):
     name: str
     description: str
     date: date  
     
-class WordInfoFrequency(WordInfo):
+class NameInfoFrequency(NameInfo):
     segment_frequencies: dict[str, int]
     overall_frequency: int
 
-class WordInfoMeta(BaseModel):
-    metadata: WordMetadata
-    word_list: list[WordInfo]
+class NameInfoMeta(BaseModel):
+    metadata: NameMetadata
+    entity_list: list[NameInfo]
 
-class WordInfoFrequencyMeta(BaseModel):
-    metadata: WordMetadata
-    word_list: list[WordInfoFrequency]
+class NameInfoFrequencyMeta(BaseModel):
+    metadata: NameMetadata
+    entity_list: list[NameInfoFrequency]
 
 class UrlDescriptor(BaseModel):
     url: HttpUrl
 
-class SegmentWordListUrl(BaseModel):
+class SegmentEntityListUrl(BaseModel):
     segments: list[Segment]
-    word_list: UrlDescriptor = UrlDescriptor(
+    entity_list: UrlDescriptor = UrlDescriptor(
         url=DEFAULT_WORD_LIST_URL
     )
     language: Language
@@ -82,11 +83,11 @@ def root():
 
 
 # TODO: handle exception nicer?
-def read_word_list(url: str) -> WordInfoMeta:
+def read_entity_list(url: str) -> NameInfoMeta:
     response = requests.get(url)
     response.raise_for_status()
-    word_info_meta = WordInfoMeta(**response.json())
-    return word_info_meta
+    name_info_meta = NameInfoMeta(**response.json())
+    return name_info_meta
 
 
 def initialize_de():
@@ -107,24 +108,24 @@ def setup_analysis_components(language: Language):
 
 
 @app.post("/extractor")
-def process_text(segments_word_list: SegmentWordListUrl) -> WordInfoFrequencyMeta:
-    word_info_meta = read_word_list(segments_word_list.word_list.url)
-    word_to_word_info = {}
+def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequencyMeta:
+    name_info_meta = read_entity_list(segments_entity_list.entity_list.url)
+    name_to_name_info = {}
 
-    for entry in word_info_meta.word_list:
-        if entry.word not in word_to_word_info:
-            word_to_word_info[entry.word] = []
-        word_to_word_info[entry.word].append(entry.dict())
+    for entry in name_info_meta.entity_list:
+        if entry.name not in name_to_name_info:
+            name_to_name_info[entry.name] = []
+        name_to_name_info[entry.name].append(entry.dict())
 
-    setup_analysis_components(segments_word_list.language)
-    unique_words = set([entry.word for entry in word_info_meta.word_list])
+    setup_analysis_components(segments_entity_list.language)
+    unique_names = set([entry.name for entry in name_info_meta.entity_list])
 
     # annotate
-    word_to_segment_frq = {}
+    name_to_segment_frq = {}
 
     for i, annotated_segment in enumerate(
         nlp.pipe(
-            [segment.text for segment in segments_word_list.segments],
+            [segment.text for segment in segments_entity_list.segments],
             disable=["parser", "ner"],
         )
     ):
@@ -133,36 +134,29 @@ def process_text(segments_word_list: SegmentWordListUrl) -> WordInfoFrequencyMet
         # count and intersect
         vocabulary = set(lemmatized_text)
         counted = Counter(lemmatized_text)
-        intersect = unique_words.intersection(vocabulary)
+        intersect = unique_names.intersection(vocabulary)
 
         # save frequencies
-        for word in intersect:
-            if word not in word_to_segment_frq:
-                word_to_segment_frq[word] = {}
-            word_to_segment_frq[word][
-                segments_word_list.segments[i].segment_id
-            ] = counted[word]
+        for name in intersect:
+            if name not in name_to_segment_frq:
+                name_to_segment_frq[name] = {}
+            name_to_segment_frq[name][
+                segments_entity_list.segments[i].segment_id
+            ] = counted[name]
 
-    word_info_frequency = []
-    all_segment_ids = [entry.segment_id for entry in segments_word_list.segments]
-    for word, segment_frq in word_to_segment_frq.items():
-        segment_frq_zero_filled = {
-            (seg_id if seg_id in all_segment_ids else seg_id): (
-                segment_frq[seg_id] if seg_id in segment_frq else 0
-            )
-            for seg_id in all_segment_ids
-        }
-        word_infos = word_to_word_info[word]
+    name_info_frequency = []
+    for name, segment_frq in name_to_segment_frq.items():
+        name_infos = name_to_name_info[name]
         overall_frequency = sum(segment_frq.values())
-        for word_info in word_infos:
-            word_info_frequency.append(
-                WordInfoFrequency(
-                    segment_frequencies=segment_frq_zero_filled,
+        for name_info in name_infos:
+            name_info_frequency.append(
+                NameInfoFrequency(
+                    segment_frequencies=segment_frq,
                     overall_frequency=overall_frequency,
-                    **word_info,
+                    **name_info,
                 )
             )
-    result = WordInfoFrequencyMeta(word_list=word_info_frequency, metadata=word_info_meta.metadata)
+    result = NameInfoFrequencyMeta(entity_list=name_info_frequency, metadata=name_info_meta.metadata)
 
     print(result)
     return result
@@ -177,7 +171,7 @@ if __name__ == "__main__":
 
     with open(args[1]) as json_in:
         segments = json.load(json_in)
-    segments_word_list = SegmentWordListUrl(**segments)
+    segments_entity_list = SegmentEntityListUrl(**segments)
 
-    result = process_text(segments_word_list)
+    result = process_text(segments_entity_list)
     print(result)
