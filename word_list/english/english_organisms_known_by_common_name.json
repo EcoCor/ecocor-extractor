@@ -1,7742 +1,7427 @@
 [
   {
     "wikidata_id":"Q4732960",
-    "name":"Allmogekor",
+    "word":"Allmogekor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6979096",
-    "name":"Kumiş",
+    "word":"Kumiş",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9163860",
-    "name":"Bachmat",
+    "word":"Bachmat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11727236",
-    "name":"jitokko",
+    "word":"jitokko",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11752634",
-    "name":"Leine",
+    "word":"Leine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11853840",
-    "name":"Baldwin",
+    "word":"Baldwin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12830352",
-    "name":"Prekos",
+    "word":"Prekos",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16897924",
-    "name":"Montauban",
+    "word":"Montauban",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19283661",
-    "name":"Zuchon",
+    "word":"Zuchon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21332455",
-    "name":"Sarlabot",
+    "word":"Sarlabot",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25041233",
-    "name":"Elizabeth",
+    "word":"Elizabeth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25380055",
-    "name":"Twinner",
+    "word":"Twinner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q26701923",
-    "name":"Piacentino",
+    "word":"Piacentino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q26703419",
-    "name":"Manotte",
+    "word":"Manotte",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29028",
-    "name":"Combai",
+    "word":"Combai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29099",
-    "name":"dachshund",
+    "word":"dachshund",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29164",
-    "name":"Akita",
+    "word":"Akita",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29174",
-    "name":"Pungsan",
+    "word":"Pungsan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29178",
-    "name":"Sapsali",
+    "word":"Sapsali",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37464",
-    "name":"Telomian",
+    "word":"Telomian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37478",
-    "name":"Beagle-Harrier",
+    "word":"Beagle-Harrier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37487",
-    "name":"Ariégeois",
+    "word":"Ariégeois",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37546",
-    "name":"Bisben",
+    "word":"Bisben",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37566",
-    "name":"Bolognese",
+    "word":"Bolognese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37585",
-    "name":"Barbet",
+    "word":"Barbet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37589",
-    "name":"Boerboel",
+    "word":"Boerboel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37637",
-    "name":"Billy",
+    "word":"Billy",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37650",
-    "name":"Dunker",
+    "word":"Dunker",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37667",
-    "name":"Chippiparai",
+    "word":"Chippiparai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37720",
-    "name":"Beauceron",
+    "word":"Beauceron",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37722",
-    "name":"Chinook",
+    "word":"Chinook",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37737",
-    "name":"Broholmer",
+    "word":"Broholmer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37771",
-    "name":"Cursinu",
+    "word":"Cursinu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37773",
-    "name":"Stichelhaar",
+    "word":"Stichelhaar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37775",
-    "name":"Drever",
+    "word":"Drever",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37815",
-    "name":"Laekenois",
+    "word":"Laekenois",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37821",
-    "name":"Briard",
+    "word":"Briard",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37832",
-    "name":"Mioritic",
+    "word":"Mioritic",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37859",
-    "name":"Azawakh",
+    "word":"Azawakh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37866",
-    "name":"Borzoi",
+    "word":"Borzoi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37871",
-    "name":"Basenji",
+    "word":"Basenji",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37872",
-    "name":"Armant",
+    "word":"Armant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37899",
-    "name":"Jagdterrier",
+    "word":"Jagdterrier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37904",
-    "name":"Aidi",
+    "word":"Aidi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37925",
-    "name":"Sloughi",
+    "word":"Sloughi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37946",
-    "name":"Eurasier",
+    "word":"Eurasier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37963",
-    "name":"Mucuchies",
+    "word":"Mucuchies",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q37978",
-    "name":"Hamiltonstövare",
+    "word":"Hamiltonstövare",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38013",
-    "name":"Jonangi",
+    "word":"Jonangi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38016",
-    "name":"Hygenhund",
+    "word":"Hygenhund",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38027",
-    "name":"Löwchen",
+    "word":"Löwchen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38080",
-    "name":"Bullmastiff",
+    "word":"Bullmastiff",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39390",
-    "name":"Talbot",
+    "word":"Talbot",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q197824",
-    "name":"Zhongdian-Yak",
+    "word":"Zhongdian-Yak",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q658108",
-    "name":"Sanke",
+    "word":"Sanke",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q720387",
-    "name":"Asagi",
+    "word":"Asagi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q815036",
-    "name":"bekko",
+    "word":"bekko",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q820686",
-    "name":"Saxony",
+    "word":"Saxony",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q924403",
-    "name":"Utsurimono",
+    "word":"Utsurimono",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1146687",
-    "name":"Cuy",
+    "word":"Cuy",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1248190",
-    "name":"Qinghai",
+    "word":"Qinghai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1285500",
-    "name":"Jiulong",
+    "word":"Jiulong",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1475331",
-    "name":"Showa",
+    "word":"Showa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1519738",
-    "name":"Tancho",
+    "word":"Tancho",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1632846",
-    "name":"Huanhu",
+    "word":"Huanhu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1779694",
-    "name":"Kōhaku",
+    "word":"Kōhaku",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1854941",
-    "name":"Ranchu",
+    "word":"Ranchu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1949917",
-    "name":"fantail",
+    "word":"fantail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2007814",
-    "name":"Shubunkin",
+    "word":"Shubunkin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2164000",
-    "name":"Oranda",
+    "word":"Oranda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2435086",
-    "name":"shusui",
+    "word":"shusui",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2472936",
-    "name":"Uckermärker",
+    "word":"Uckermärker",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2600279",
-    "name":"Fantail",
+    "word":"Fantail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2637265",
-    "name":"Pearlscale",
+    "word":"Pearlscale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2928153",
-    "name":"Bunaji",
+    "word":"Bunaji",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2981232",
-    "name":"Ryukin",
+    "word":"Ryukin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3037291",
-    "name":"Sachsengold",
+    "word":"Sachsengold",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3298386",
-    "name":"Mateba",
+    "word":"Mateba",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q653",
-    "name":"Chihuahua",
+    "word":"Chihuahua",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7254",
-    "name":"Affenpinscher",
+    "word":"Affenpinscher",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17504",
-    "name":"Dalmatian",
+    "word":"Dalmatian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20860",
-    "name":"Wetterhoun",
+    "word":"Wetterhoun",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21098",
-    "name":"bloodhound",
+    "word":"bloodhound",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21102",
-    "name":"beagle",
+    "word":"beagle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q23473",
-    "name":"Normand-Poitevin",
+    "word":"Normand-Poitevin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25746",
-    "name":"Kitler",
+    "word":"Kitler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25865",
-    "name":"Sertanejo",
+    "word":"Sertanejo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25881",
-    "name":"Gegar",
+    "word":"Gegar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q53662",
-    "name":"Laika",
+    "word":"Laika",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1375787",
-    "name":"Aspin",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q36497557",
-    "name":"Dominant",
+    "word":"Aspin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q49095052",
-    "name":"Lunkarya",
+    "word":"Lunkarya",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106989507",
-    "name":"Rendille",
+    "word":"Rendille",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106989568",
-    "name":"Turkana",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q107451912",
-    "name":"Cambridge",
+    "word":"Turkana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108198448",
-    "name":"Alxa",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q108199467",
-    "name":"Afar",
+    "word":"Alxa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108199829",
-    "name":"Azawak",
+    "word":"Azawak",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108200500",
-    "name":"Fellahi",
+    "word":"Fellahi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108258192",
-    "name":"Jaisalmeri",
+    "word":"Jaisalmeri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108407515",
-    "name":"Kharai",
+    "word":"Kharai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q109606581",
-    "name":"Majaheem",
+    "word":"Majaheem",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q109673913",
-    "name":"Guerzni",
+    "word":"Guerzni",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q110234999",
-    "name":"Targui",
+    "word":"Targui",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q110248575",
-    "name":"Ajjer",
+    "word":"Ajjer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q110263293",
-    "name":"Jebli",
+    "word":"Jebli",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q111704594",
-    "name":"Waddah",
+    "word":"Waddah",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38103",
-    "name":"Maneto",
+    "word":"Maneto",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38105",
-    "name":"Jämthund",
+    "word":"Jämthund",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38107",
-    "name":"Harrier",
+    "word":"Harrier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38115",
-    "name":"Papillon",
+    "word":"Papillon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38156",
-    "name":"Brittany",
+    "word":"Brittany",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38175",
-    "name":"Akbash",
+    "word":"Akbash",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38312",
-    "name":"Rajapalayam",
+    "word":"Rajapalayam",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38342",
-    "name":"Kishu",
+    "word":"Kishu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38358",
-    "name":"Dobermann",
+    "word":"Dobermann",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38368",
-    "name":"Hovawart",
+    "word":"Hovawart",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38383",
-    "name":"Bulldog",
+    "word":"Bulldog",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38399",
-    "name":"Groenendael",
+    "word":"Groenendael",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38403",
-    "name":"Kromfohrländer",
+    "word":"Kromfohrländer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38425",
-    "name":"Huntaway",
+    "word":"Huntaway",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38436",
-    "name":"Schafpudel",
+    "word":"Schafpudel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38449",
-    "name":"Havanese",
+    "word":"Havanese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38467",
-    "name":"Kuvasz",
+    "word":"Kuvasz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38487",
-    "name":"Leonberger",
+    "word":"Leonberger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38496",
-    "name":"Boxer",
+    "word":"Boxer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38571",
-    "name":"greyhound",
+    "word":"greyhound",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2941446",
-    "name":"Castillonnais",
+    "word":"Castillonnais",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3030606",
-    "name":"Taishuh",
+    "word":"Taishuh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3044064",
-    "name":"Nordlandshest\/Lyngshest",
+    "word":"Nordlandshest\/Lyngshest",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3062589",
-    "name":"Zaniskari",
+    "word":"Zaniskari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3063148",
-    "name":"Malopolski",
+    "word":"Malopolski",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3099678",
-    "name":"Gayoe",
+    "word":"Gayoe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3345528",
-    "name":"Novokirghiz",
+    "word":"Novokirghiz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3362455",
-    "name":"Pantaneiro",
+    "word":"Pantaneiro",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3396189",
-    "name":"Kiso",
+    "word":"Kiso",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3412447",
-    "name":"Qatgani",
+    "word":"Qatgani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3530581",
-    "name":"Tolfetano",
+    "word":"Tolfetano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3552821",
-    "name":"Uzunyayla",
+    "word":"Uzunyayla",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3565394",
-    "name":"Walkaloosa",
+    "word":"Walkaloosa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1424315",
-    "name":"Monterufolino",
+    "word":"Monterufolino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1425368",
-    "name":"Carthusian",
+    "word":"Carthusian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1428661",
-    "name":"Galiceno",
+    "word":"Galiceno",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1460188",
-    "name":"Wielkopolski",
+    "word":"Wielkopolski",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1502781",
-    "name":"Mecklenburger",
+    "word":"Mecklenburger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1573904",
-    "name":"Kladruber",
+    "word":"Kladruber",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1620679",
-    "name":"Hispano-Árabe",
+    "word":"Hispano-Árabe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1728868",
-    "name":"Karabair",
+    "word":"Karabair",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1742067",
-    "name":"Welara",
+    "word":"Welara",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1776843",
-    "name":"Knabstrupper",
+    "word":"Knabstrupper",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1794559",
-    "name":"Kushum",
+    "word":"Kushum",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1800149",
-    "name":"Morab",
+    "word":"Morab",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1890204",
-    "name":"Pottok",
+    "word":"Pottok",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1894708",
-    "name":"Maremmano",
+    "word":"Maremmano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1953691",
-    "name":"Murgese",
+    "word":"Murgese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2049536",
-    "name":"Panje",
+    "word":"Panje",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2168973",
-    "name":"Rottaler",
+    "word":"Rottaler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2271184",
-    "name":"Senner",
+    "word":"Senner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2381430",
-    "name":"Lundy",
+    "word":"Lundy",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2424191",
-    "name":"M'Bayar",
+    "word":"M'Bayar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2734946",
-    "name":"Foutanké",
+    "word":"Foutanké",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2822051",
-    "name":"Abstang",
+    "word":"Abstang",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2822067",
-    "name":"Abtenauer",
+    "word":"Abtenauer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2849686",
-    "name":"Anglo-Kabarda",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q2873068",
-    "name":"AQPS",
+    "word":"Anglo-Kabarda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2875325",
-    "name":"Aenos",
+    "word":"Aenos",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2880009",
-    "name":"Baixadeiro",
+    "word":"Baixadeiro",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3751412",
-    "name":"Monchino",
+    "word":"Monchino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3816660",
-    "name":"Hispano-Bretón",
+    "word":"Hispano-Bretón",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4087547",
-    "name":"Voronej",
+    "word":"Voronej",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4160688",
-    "name":"Dzhab",
+    "word":"Dzhab",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4244865",
-    "name":"Kuznet",
+    "word":"Kuznet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4848667",
-    "name":"Guangxi",
+    "word":"Guangxi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5055481",
-    "name":"Cayuse",
+    "word":"Cayuse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5771894",
-    "name":"Hirzai",
+    "word":"Hirzai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6765615",
-    "name":"Marismeño",
+    "word":"Marismeño",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7689300",
-    "name":"Tawleed",
+    "word":"Tawleed",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7969488",
-    "name":"Warlander",
+    "word":"Warlander",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9300289",
-    "name":"Avelignese",
+    "word":"Avelignese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10411382",
-    "name":"Andean",
+    "word":"Andean",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10466822",
-    "name":"Dareshuri",
+    "word":"Dareshuri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10681661",
-    "name":"Strelets",
+    "word":"Strelets",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11089376",
-    "name":"Jinjiang",
+    "word":"Jinjiang",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38675",
-    "name":"Komondor",
+    "word":"Komondor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38679",
-    "name":"Tervuren",
+    "word":"Tervuren",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38690",
-    "name":"Mudi",
+    "word":"Mudi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38698",
-    "name":"Pug",
+    "word":"Pug",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38716",
-    "name":"Kooikerhondje",
+    "word":"Kooikerhondje",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38728",
-    "name":"Schillerstövare",
+    "word":"Schillerstövare",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38751",
-    "name":"Maltese",
+    "word":"Maltese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38784",
-    "name":"Kleinspitz",
+    "word":"Kleinspitz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38819",
-    "name":"Vizsla",
+    "word":"Vizsla",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38843",
-    "name":"Keeshond",
+    "word":"Keeshond",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38864",
-    "name":"Puli",
+    "word":"Puli",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38904",
-    "name":"poodle",
+    "word":"poodle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38919",
-    "name":"Pumi",
+    "word":"Pumi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38922",
-    "name":"Otterhound",
+    "word":"Otterhound",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38925",
-    "name":"Norrbottenspets",
+    "word":"Norrbottenspets",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38930",
-    "name":"Pudelpointer",
+    "word":"Pudelpointer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38945",
-    "name":"mongrel",
+    "word":"mongrel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38950",
-    "name":"Landseer",
+    "word":"Landseer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38951",
-    "name":"Koolie",
+    "word":"Koolie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38958",
-    "name":"Kanni",
+    "word":"Kanni",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38959",
-    "name":"Pekingese",
+    "word":"Pekingese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38965",
-    "name":"Weimaraner",
+    "word":"Weimaraner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q38991",
-    "name":"Tosa",
+    "word":"Tosa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39002",
-    "name":"Samoyed",
+    "word":"Samoyed",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39010",
-    "name":"Schipperke",
+    "word":"Schipperke",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11457439",
-    "name":"Kandachime",
+    "word":"Kandachime",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11716031",
-    "name":"Jaf",
+    "word":"Jaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16534460",
-    "name":"Bohai",
+    "word":"Bohai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16538999",
-    "name":"Chernomor",
+    "word":"Chernomor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18426411",
-    "name":"Beberbecker",
+    "word":"Beberbecker",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19544019",
-    "name":"Calvinia",
+    "word":"Calvinia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20492957",
-    "name":"Zabaikal",
+    "word":"Zabaikal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21083524",
-    "name":"Altwürttemberger",
+    "word":"Altwürttemberger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21658875",
-    "name":"Chaidamu",
+    "word":"Chaidamu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21658879",
-    "name":"Jianchang",
+    "word":"Jianchang",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21658880",
-    "name":"Jilin",
+    "word":"Jilin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21890474",
-    "name":"Tuva",
+    "word":"Tuva",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22009882",
-    "name":"Yushu",
+    "word":"Yushu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39083",
-    "name":"Porcelaine",
+    "word":"Porcelaine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39093",
-    "name":"Rottweiler",
+    "word":"Rottweiler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39108",
-    "name":"Saluki",
+    "word":"Saluki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39122",
-    "name":"Whippet",
+    "word":"Whippet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39133",
-    "name":"Tornjak",
+    "word":"Tornjak",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39147",
-    "name":"Shikoku",
+    "word":"Shikoku",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39157",
-    "name":"Schapendoes",
+    "word":"Schapendoes",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39192",
-    "name":"Stabijhoun",
+    "word":"Stabijhoun",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39239",
-    "name":"Taigan",
+    "word":"Taigan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39254",
-    "name":"Phalène",
+    "word":"Phalène",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39265",
-    "name":"Waeller",
+    "word":"Waeller",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q390751",
-    "name":"Agassin",
+    "word":"Agassin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q516079",
-    "name":"Africanis",
+    "word":"Africanis",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1028186",
-    "name":"Griffon",
+    "word":"Griffon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3010976",
-    "name":"D'man",
+    "word":"D'man",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3072665",
-    "name":"Finnsheep",
+    "word":"Finnsheep",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3082355",
-    "name":"Rambouillet",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3116188",
-    "name":"Hampshire",
+    "word":"Rambouillet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3116831",
-    "name":"Grivette",
+    "word":"Grivette",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3133971",
-    "name":"Herdwick",
+    "word":"Herdwick",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3140727",
-    "name":"Île-de-France",
+    "word":"Île-de-France",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3141458",
-    "name":"Lacaune",
+    "word":"Lacaune",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3146759",
-    "name":"Romane",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3180811",
-    "name":"Lincoln",
+    "word":"Romane",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3263998",
-    "name":"Lourdaise",
+    "word":"Lourdaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3295870",
-    "name":"Martinik",
+    "word":"Martinik",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3326122",
-    "name":"Mourerous",
+    "word":"Mourerous",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3326438",
-    "name":"Charollais",
+    "word":"Charollais",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3326448",
-    "name":"Vendéen",
+    "word":"Vendéen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3333301",
-    "name":"Precoce",
+    "word":"Precoce",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3421410",
-    "name":"Raiole",
+    "word":"Raiole",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3473575",
-    "name":"Sardinian",
+    "word":"Sardinian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3489564",
-    "name":"Solognote",
+    "word":"Solognote",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3492296",
-    "name":"Southdown",
+    "word":"Southdown",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3527949",
-    "name":"Thones-Marthod",
+    "word":"Thones-Marthod",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3620865",
-    "name":"Apennine",
+    "word":"Apennine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3634705",
-    "name":"Barbaresca",
+    "word":"Barbaresca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3826710",
-    "name":"Xalda",
+    "word":"Xalda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4062918",
-    "name":"Altai",
+    "word":"Altai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4068328",
-    "name":"Absheron",
+    "word":"Absheron",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4118591",
-    "name":"Najdi",
+    "word":"Najdi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4210103",
-    "name":"Priangan",
+    "word":"Priangan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4481227",
-    "name":"Faroes",
+    "word":"Faroes",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4586263",
-    "name":"Spælsau",
+    "word":"Spælsau",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4597596",
-    "name":"Damara",
+    "word":"Damara",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4678052",
-    "name":"Acıpayam",
+    "word":"Acıpayam",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4678506",
-    "name":"Adal",
+    "word":"Adal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4690052",
-    "name":"Africana",
+    "word":"Africana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4705605",
-    "name":"Alai",
+    "word":"Alai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4712946",
-    "name":"Alcarreña",
+    "word":"Alcarreña",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4736204",
-    "name":"Altay",
+    "word":"Altay",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4753095",
-    "name":"Ancon",
+    "word":"Ancon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4783354",
-    "name":"Arabi",
+    "word":"Arabi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4791985",
-    "name":"Arkhar-Merino",
+    "word":"Arkhar-Merino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4822832",
-    "name":"Aussiedown",
+    "word":"Aussiedown",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4851130",
-    "name":"Balkhi",
+    "word":"Balkhi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4853057",
-    "name":"Baluchi",
+    "word":"Baluchi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4860190",
-    "name":"Bardoka",
+    "word":"Bardoka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4891423",
-    "name":"Bergamasca",
+    "word":"Bergamasca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4903522",
-    "name":"Bibrik",
+    "word":"Bibrik",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4904501",
-    "name":"Biellese",
+    "word":"Biellese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4919400",
-    "name":"Bizet",
+    "word":"Bizet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4941268",
-    "name":"Bond",
+    "word":"Bond",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5027918",
-    "name":"Laticauda",
+    "word":"Laticauda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5104346",
-    "name":"Cholistani",
+    "word":"Cholistani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2922263",
-    "name":"Bourbonnaise",
+    "word":"Bourbonnaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2927465",
-    "name":"Buckeye",
+    "word":"Buckeye",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2956347",
-    "name":"Chantecler",
+    "word":"Chantecler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2961140",
-    "name":"Charollaise",
+    "word":"Charollaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2998562",
-    "name":"Cotentine",
+    "word":"Cotentine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3122817",
-    "name":"Gatinaise",
+    "word":"Gatinaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3134004",
-    "name":"Hergnies",
+    "word":"Hergnies",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3269666",
-    "name":"Lyonnaise",
+    "word":"Lyonnaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3335297",
-    "name":"Šumavanka",
+    "word":"Šumavanka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3356487",
-    "name":"Orloff",
+    "word":"Orloff",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3382558",
-    "name":"Pictave",
+    "word":"Pictave",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400251",
-    "name":"Merlerault",
+    "word":"Merlerault",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400258",
-    "name":"Alsacienne",
+    "word":"Alsacienne",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400259",
-    "name":"Aquitaine",
+    "word":"Aquitaine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400264",
-    "name":"Barbezieux",
+    "word":"Barbezieux",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400272",
-    "name":"Caussade",
+    "word":"Caussade",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400279",
-    "name":"Gournay",
+    "word":"Gournay",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400280",
-    "name":"Gasconne",
+    "word":"Gasconne",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3400286",
-    "name":"Pavilly",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3400289",
-    "name":"Poltava",
+    "word":"Pavilly",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3538316",
-    "name":"Penedesenca",
+    "word":"Penedesenca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4007559",
-    "name":"Valdarnese",
+    "word":"Valdarnese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4236551",
-    "name":"Pekin",
+    "word":"Pekin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4249021",
-    "name":"Frizzle",
+    "word":"Frizzle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4652947",
-    "name":"Schijndelaar",
+    "word":"Schijndelaar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4740217",
-    "name":"Amarela",
+    "word":"Amarela",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4992642",
-    "name":"Legbar",
+    "word":"Legbar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5028379",
-    "name":"Campine",
+    "word":"Campine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5253215",
-    "name":"Delaware",
+    "word":"Delaware",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q23021850",
-    "name":"Chumbivilcas",
+    "word":"Chumbivilcas",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q23301444",
-    "name":"Fleuve",
+    "word":"Fleuve",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25060015",
-    "name":"M'Par",
+    "word":"M'Par",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25381025",
-    "name":"Merak-Saktenpata",
+    "word":"Merak-Saktenpata",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28032993",
-    "name":"Kuningan",
+    "word":"Kuningan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28033221",
-    "name":"Çukurova",
+    "word":"Çukurova",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28033231",
-    "name":"Chara",
+    "word":"Chara",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30765776",
-    "name":"Gemlik",
+    "word":"Gemlik",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30765778",
-    "name":"Alaca",
+    "word":"Alaca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30937261",
-    "name":"Lavradeiro",
+    "word":"Lavradeiro",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39076316",
-    "name":"Malakan",
+    "word":"Malakan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q50281578",
-    "name":"Selale",
+    "word":"Selale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q50406210",
-    "name":"Trochador",
+    "word":"Trochador",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q50824538",
-    "name":"Crioulo",
+    "word":"Crioulo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q50886018",
-    "name":"Beledougou",
+    "word":"Beledougou",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q53550116",
-    "name":"Bagual",
+    "word":"Bagual",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q55465308",
-    "name":"Einsiedler",
+    "word":"Einsiedler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56216319",
-    "name":"Waziri",
+    "word":"Waziri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56301801",
-    "name":"Darkhad",
+    "word":"Darkhad",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56304401",
-    "name":"Patibarcina",
+    "word":"Patibarcina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56305294",
-    "name":"Kafa",
+    "word":"Kafa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56306142",
-    "name":"Baguio",
+    "word":"Baguio",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56306340",
-    "name":"Bergmann",
+    "word":"Bergmann",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56307485",
-    "name":"Cherokee",
+    "word":"Cherokee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56307541",
-    "name":"Chumysh",
+    "word":"Chumysh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q655850",
-    "name":"Thuringer",
+    "word":"Thuringer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q655886",
-    "name":"Satin",
+    "word":"Satin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1255111",
-    "name":"Teddyzwerg",
+    "word":"Teddyzwerg",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1344121",
-    "name":"Lux",
+    "word":"Lux",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1476540",
-    "name":"Jamora",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1591452",
-    "name":"Havana",
+    "word":"Jamora",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2004574",
-    "name":"Beveren",
+    "word":"Beveren",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2148419",
-    "name":"Rhönkaninchen",
+    "word":"Rhönkaninchen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2557231",
-    "name":"Weißgrannen",
+    "word":"Weißgrannen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106232206",
-    "name":"Hutovo-Blato",
+    "word":"Hutovo-Blato",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106245160",
-    "name":"Namaqua",
+    "word":"Namaqua",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106255722",
-    "name":"Tattu",
+    "word":"Tattu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106255992",
-    "name":"Chyanta",
+    "word":"Chyanta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106256394",
-    "name":"Tanghan",
+    "word":"Tanghan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106292681",
-    "name":"Bakhtiari",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q107548129",
-    "name":"Sulphur",
+    "word":"Bakhtiari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115562501",
-    "name":"Baise",
+    "word":"Baise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1135818",
-    "name":"nureongi",
+    "word":"nureongi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1196071",
-    "name":"collie",
+    "word":"collie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1513816",
-    "name":"Schwarzer",
+    "word":"Schwarzer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1742290",
-    "name":"Kintamani",
+    "word":"Kintamani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1821832",
-    "name":"Levesque",
+    "word":"Levesque",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1990683",
-    "name":"Pandikona",
+    "word":"Pandikona",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2222597",
-    "name":"Sanshu",
+    "word":"Sanshu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2356500",
-    "name":"Strobel",
+    "word":"Strobel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2887401",
-    "name":"basset",
+    "word":"basset",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2910591",
-    "name":"Borador",
+    "word":"Borador",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3324148",
-    "name":"Morkie",
+    "word":"Morkie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3635150",
-    "name":"Alopekis",
+    "word":"Alopekis",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3895786",
-    "name":"Pardog",
+    "word":"Pardog",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4353804",
-    "name":"Hälleforshund",
+    "word":"Hälleforshund",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5732926",
-    "name":"Boxador",
+    "word":"Boxador",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6003137",
-    "name":"Zerdava",
+    "word":"Zerdava",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5167973",
-    "name":"Coopworth",
+    "word":"Coopworth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5170985",
-    "name":"Cormo",
+    "word":"Cormo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5175498",
-    "name":"Cotswold",
+    "word":"Cotswold",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5208574",
-    "name":"Dağliç",
+    "word":"Dağliç",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5210796",
-    "name":"Dalesbred",
+    "word":"Dalesbred",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5211960",
-    "name":"Damani",
+    "word":"Damani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5248424",
-    "name":"Debouillet",
+    "word":"Debouillet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5309803",
-    "name":"Drysdale",
+    "word":"Drysdale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5331195",
-    "name":"Easycare",
+    "word":"Easycare",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5365753",
-    "name":"Elliotdale",
+    "word":"Elliotdale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5427968",
-    "name":"Fabrianese",
+    "word":"Fabrianese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5610166",
-    "name":"Gromark",
+    "word":"Gromark",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5777589",
-    "name":"Colmenareña",
+    "word":"Colmenareña",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5788347",
-    "name":"Chilota",
+    "word":"Chilota",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5788358",
-    "name":"Manchega",
+    "word":"Manchega",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5859497",
-    "name":"Lojeña",
+    "word":"Lojeña",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6049421",
-    "name":"Ojalada",
+    "word":"Ojalada",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6054872",
-    "name":"Montesina",
+    "word":"Montesina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6368881",
-    "name":"Karayaka",
+    "word":"Karayaka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6375006",
-    "name":"Katahdin",
+    "word":"Katahdin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6430546",
-    "name":"Kooka",
+    "word":"Kooka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6661857",
-    "name":"Llanwenog",
+    "word":"Llanwenog",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6674652",
-    "name":"Lonk",
+    "word":"Lonk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6804325",
-    "name":"Meatmaster",
+    "word":"Meatmaster",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6809770",
-    "name":"Mehraban",
+    "word":"Mehraban",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6903143",
-    "name":"Montadale",
+    "word":"Montadale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7159168",
-    "name":"Bapedi",
+    "word":"Bapedi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7161371",
-    "name":"Pelibuey",
+    "word":"Pelibuey",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7226067",
-    "name":"Polwarth",
+    "word":"Polwarth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7231862",
-    "name":"Portland",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q7304559",
-    "name":"Masai",
+    "word":"Portland",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7363048",
-    "name":"Romeldale\/CVM",
+    "word":"Romeldale\/CVM",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7376727",
-    "name":"Ruda",
+    "word":"Ruda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7385011",
-    "name":"Ryeland",
+    "word":"Ryeland",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7403013",
-    "name":"Sakiz",
+    "word":"Sakiz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7653077",
-    "name":"Swaledale",
+    "word":"Swaledale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7679426",
-    "name":"Taleshi",
+    "word":"Taleshi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7685934",
-    "name":"Targhee",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q7853119",
-    "name":"Tunis",
+    "word":"Targhee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7976945",
-    "name":"Waziri",
+    "word":"Waziri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7982965",
-    "name":"Wensleydale",
+    "word":"Wensleydale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8023340",
-    "name":"Wiltipoll",
+    "word":"Wiltipoll",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8068697",
-    "name":"Zelazna",
+    "word":"Zelazna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10500346",
-    "name":"Waldschaf",
+    "word":"Waldschaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10720715",
-    "name":"Wrzosowka",
+    "word":"Wrzosowka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11026102",
-    "name":"Dalasau",
+    "word":"Dalasau",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11059147",
-    "name":"Panama",
+    "word":"Panama",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939662",
-    "name":"Cartera",
+    "word":"Cartera",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939664",
-    "name":"Mallorquina",
+    "word":"Mallorquina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115563273",
-    "name":"Shishan",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q58910",
-    "name":"Holstein",
+    "word":"Shishan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q176656",
-    "name":"Beefalo",
+    "word":"Beefalo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q176656",
-    "name":"Beefalo",
+    "word":"Beefalo",
     "category":"Unknown"
   },
   {
     "wikidata_id":"Q3356867",
-    "name":"Orylag",
+    "word":"Orylag",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7169149",
-    "name":"Perlfee",
+    "word":"Perlfee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16875404",
-    "name":"Hulstlander",
+    "word":"Hulstlander",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56314973",
-    "name":"Bajau",
+    "word":"Bajau",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56863148",
-    "name":"Maine",
+    "word":"Maine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q57416589",
-    "name":"Goonhilly",
+    "word":"Goonhilly",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q57416603",
-    "name":"Banat",
+    "word":"Banat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q57416671",
-    "name":"Makassar",
+    "word":"Makassar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q58307765",
-    "name":"Lao",
+    "word":"Lao",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q58307781",
-    "name":"Zhongdian",
+    "word":"Zhongdian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q58309289",
-    "name":"Ondorshil",
+    "word":"Ondorshil",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q58381284",
-    "name":"Ujumqin",
+    "word":"Ujumqin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60753111",
-    "name":"Abaga",
+    "word":"Abaga",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60832226",
-    "name":"Henan",
+    "word":"Henan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60833828",
-    "name":"Wenshan",
+    "word":"Wenshan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60848661",
-    "name":"Kajlan",
+    "word":"Kajlan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60848678",
-    "name":"Jata",
+    "word":"Jata",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q68918710",
-    "name":"Pinkafö",
+    "word":"Pinkafö",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100502686",
-    "name":"Mossi",
+    "word":"Mossi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104537147",
-    "name":"Basseri",
+    "word":"Basseri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104537263",
-    "name":"Borta",
+    "word":"Borta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104587237",
-    "name":"Jofi",
+    "word":"Jofi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104828074",
-    "name":"Manx",
+    "word":"Manx",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9356247",
-    "name":"Techichi",
+    "word":"Techichi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10351150",
-    "name":"Pomsky",
+    "word":"Pomsky",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10519107",
-    "name":"Hedehund",
+    "word":"Hedehund",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11294788",
-    "name":"Comforter",
+    "word":"Comforter",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11298372",
-    "name":"Cu",
+    "word":"Cu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11303705",
-    "name":"Gorskaja",
+    "word":"Gorskaja",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11316517",
-    "name":"tumbler",
+    "word":"tumbler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11322087",
-    "name":"Trailhound",
+    "word":"Trailhound",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11701407",
-    "name":"Greyster",
+    "word":"Greyster",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5593608",
-    "name":"Gramapriya",
+    "word":"Gramapriya",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5880904",
-    "name":"Holland",
+    "word":"Holland",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6154088",
-    "name":"Jangmigye",
+    "word":"Jangmigye",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6344984",
-    "name":"Kadaknath",
+    "word":"Kadaknath",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6446312",
-    "name":"Kuroiler",
+    "word":"Kuroiler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6482165",
-    "name":"Lamona",
+    "word":"Lamona",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6932103",
-    "name":"Mugellese",
+    "word":"Mugellese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6963753",
-    "name":"Nankin",
+    "word":"Nankin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7818274",
-    "name":"Tomaru",
+    "word":"Tomaru",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8025548",
-    "name":"Winnebago",
+    "word":"Winnebago",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10519125",
-    "name":"Hedemorahöna",
+    "word":"Hedemorahöna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11156455",
-    "name":"Dorking",
+    "word":"Dorking",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11547395",
-    "name":"Hinaidori",
+    "word":"Hinaidori",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11622284",
-    "name":"Satsumadori",
+    "word":"Satsumadori",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11821583",
-    "name":"Polbar",
+    "word":"Polbar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12329759",
-    "name":"O-Shamo",
+    "word":"O-Shamo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12344131",
-    "name":"Welbar",
+    "word":"Welbar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13425797",
-    "name":"Padovana",
+    "word":"Padovana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16995258",
-    "name":"Ixworth",
+    "word":"Ixworth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17082228",
-    "name":"Burmese",
+    "word":"Burmese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17115948",
-    "name":"Frizzle",
+    "word":"Frizzle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17116053",
-    "name":"Pyncheon",
+    "word":"Pyncheon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19605497",
-    "name":"Giriraja",
+    "word":"Giriraja",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19899313",
-    "name":"Vanaraja",
+    "word":"Vanaraja",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22127390",
-    "name":"Ingie",
+    "word":"Ingie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28801943",
-    "name":"Totenko",
+    "word":"Totenko",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q39059152",
-    "name":"Yakido",
+    "word":"Yakido",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56316218",
-    "name":"Harco",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q65156338",
-    "name":"Limousine",
+    "word":"Harco",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56303291",
-    "name":"Zemmouri",
+    "word":"Zemmouri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105555677",
-    "name":"Dalmatian",
+    "word":"Dalmatian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q737173",
-    "name":"Hereford",
+    "word":"Hereford",
     "category":"Unknown"
   },
   {
     "wikidata_id":"Q758501",
-    "name":"Aubrac",
+    "word":"Aubrac",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1422464",
-    "name":"Gelbvieh",
+    "word":"Gelbvieh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1479137",
-    "name":"Senepole",
+    "word":"Senepole",
     "category":"Unknown"
   },
   {
     "wikidata_id":"Q1518523",
-    "name":"Hinterwald",
+    "word":"Hinterwald",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1557956",
-    "name":"Lebedyn",
+    "word":"Lebedyn",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1733384",
-    "name":"Limpurger",
+    "word":"Limpurger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939665",
-    "name":"Aranesa",
+    "word":"Aranesa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939666",
-    "name":"Guirra",
+    "word":"Guirra",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939668",
-    "name":"Eivissenca",
+    "word":"Eivissenca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939669",
-    "name":"Ripollesa",
+    "word":"Ripollesa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939671",
-    "name":"Segureña",
+    "word":"Segureña",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11939673",
-    "name":"Xisqueta",
+    "word":"Xisqueta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11998753",
-    "name":"Rygja",
+    "word":"Rygja",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12002865",
-    "name":"Steigar",
+    "word":"Steigar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12005282",
-    "name":"Tautersheep",
+    "word":"Tautersheep",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12059770",
-    "name":"Hebridean",
+    "word":"Hebridean",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12203604",
-    "name":"Teeswater",
+    "word":"Teeswater",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12283706",
-    "name":"Koprivshten",
+    "word":"Koprivshten",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12283922",
-    "name":"Kotel",
+    "word":"Kotel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12286528",
-    "name":"Karnobat",
+    "word":"Karnobat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12293382",
-    "name":"Svishtov",
+    "word":"Svishtov",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12296296",
-    "name":"Teteven",
+    "word":"Teteven",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12530687",
-    "name":"Atyrau",
+    "word":"Atyrau",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12531733",
-    "name":"Akzhaik",
+    "word":"Akzhaik",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12544141",
-    "name":"Zhanaarka",
+    "word":"Zhanaarka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12572479",
-    "name":"Gissar",
+    "word":"Gissar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12858325",
-    "name":"Galway",
+    "word":"Galway",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13090178",
-    "name":"Pramenka",
+    "word":"Pramenka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16525708",
-    "name":"Altamurana",
+    "word":"Altamurana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16576893",
-    "name":"Massese",
+    "word":"Massese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16800658",
-    "name":"Noticiana",
+    "word":"Noticiana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16827583",
-    "name":"Alpagota",
+    "word":"Alpagota",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16846263",
-    "name":"Brentegana",
+    "word":"Brentegana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16846352",
-    "name":"Brianzola",
+    "word":"Brianzola",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16847131",
-    "name":"Brogna",
+    "word":"Brogna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16918179",
-    "name":"Uda",
+    "word":"Uda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16951731",
-    "name":"Cornigliese",
+    "word":"Cornigliese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16951955",
-    "name":"Corteno",
+    "word":"Corteno",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16958334",
-    "name":"Ciavenasca",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5",
-    "name":"human",
+    "word":"Ciavenasca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q144",
-    "name":"dog",
+    "word":"dog",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q152",
-    "name":"fish",
+    "word":"fish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q726",
-    "name":"horse",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q322890",
-    "name":"abondance",
+    "word":"horse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q495553",
-    "name":"Maine-Anjou",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q586876",
-    "name":"Limousin",
+    "word":"Maine-Anjou",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2892382",
-    "name":"Bazadese",
+    "word":"Bazadese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2900118",
-    "name":"Betizu",
+    "word":"Betizu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3263997",
-    "name":"Lourdais",
+    "word":"Lourdais",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3403137",
-    "name":"Prim'Holstein",
+    "word":"Prim'Holstein",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13651093",
-    "name":"Mulefoot",
+    "word":"Mulefoot",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16993512",
-    "name":"Welsh",
+    "word":"Welsh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18420387",
-    "name":"Sarda",
+    "word":"Sarda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11874326",
-    "name":"Labrit",
+    "word":"Labrit",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11883725",
-    "name":"Mâtin",
+    "word":"Mâtin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12314116",
-    "name":"Gollie",
+    "word":"Gollie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12593214",
-    "name":"Dong-gyeong",
+    "word":"Dong-gyeong",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12599182",
-    "name":"Bulgae",
+    "word":"Bulgae",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12908317",
-    "name":"Karaman",
+    "word":"Karaman",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13217219",
-    "name":"Molossus",
+    "word":"Molossus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14766993",
-    "name":"Bone-mouth",
+    "word":"Bone-mouth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q15782013",
-    "name":"Alano",
+    "word":"Alano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16639970",
-    "name":"Großspitz",
+    "word":"Großspitz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16975130",
-    "name":"Beaglier",
+    "word":"Beaglier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18418019",
-    "name":"Chamuco",
+    "word":"Chamuco",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2366573",
-    "name":"Brangus",
+    "word":"Brangus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2366573",
-    "name":"Brangus",
+    "word":"Brangus",
     "category":"Unknown"
   },
   {
     "wikidata_id":"Q139939",
-    "name":"Racka",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q220213",
-    "name":"Cameroon",
+    "word":"Racka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q314363",
-    "name":"Heidschnucke",
+    "word":"Heidschnucke",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q328230",
-    "name":"Karakul",
+    "word":"Karakul",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q486745",
-    "name":"Jacob",
+    "word":"Jacob",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q494612",
-    "name":"Texel",
+    "word":"Texel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q600555",
-    "name":"Merinolandschaf",
+    "word":"Merinolandschaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q651765",
-    "name":"Merino",
+    "word":"Merino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q772223",
-    "name":"Sidaoun",
+    "word":"Sidaoun",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q787795",
-    "name":"Suffolk",
+    "word":"Suffolk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q867253",
-    "name":"Tsigai",
+    "word":"Tsigai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q867344",
-    "name":"Cikta",
+    "word":"Cikta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q930322",
-    "name":"Churra",
+    "word":"Churra",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1047695",
-    "name":"Romney",
+    "word":"Romney",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1178050",
-    "name":"Latxa",
+    "word":"Latxa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1250393",
-    "name":"Dorper",
+    "word":"Dorper",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1469688",
-    "name":"Ouessant",
+    "word":"Ouessant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1643600",
-    "name":"Corriedale",
+    "word":"Corriedale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1815314",
-    "name":"Leineschaf",
+    "word":"Leineschaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1842796",
-    "name":"Mergelland",
+    "word":"Mergelland",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1921735",
-    "name":"Merinolangwollschaf",
+    "word":"Merinolangwollschaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1979619",
-    "name":"Flevolander",
+    "word":"Flevolander",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2148444",
-    "name":"Rhönschaf",
+    "word":"Rhönschaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2280268",
-    "name":"Shropshire",
+    "word":"Shropshire",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2293037",
-    "name":"Skudde",
+    "word":"Skudde",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2512371",
-    "name":"Zwartbles",
+    "word":"Zwartbles",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2582366",
-    "name":"Romanov",
+    "word":"Romanov",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2603979",
-    "name":"Awassi",
+    "word":"Awassi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2860723",
-    "name":"Ardes",
+    "word":"Ardes",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2866661",
-    "name":"Askanian",
+    "word":"Askanian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2871846",
-    "name":"Aure-Campan",
+    "word":"Aure-Campan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2874519",
-    "name":"Avranchin",
+    "word":"Avranchin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2886262",
-    "name":"Barégeois",
+    "word":"Barégeois",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2886402",
-    "name":"Basco-béarnaise",
+    "word":"Basco-béarnaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2895137",
-    "name":"Beltex",
+    "word":"Beltex",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2924257",
-    "name":"Landais",
+    "word":"Landais",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2925346",
-    "name":"Brigasca",
+    "word":"Brigasca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2936776",
-    "name":"Assaf",
+    "word":"Assaf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2961109",
-    "name":"Charmoise",
+    "word":"Charmoise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2984568",
-    "name":"Columbia",
+    "word":"Columbia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q85757738",
-    "name":"Droimeann",
+    "word":"Droimeann",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q96392551",
-    "name":"Meidam",
+    "word":"Meidam",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q780",
-    "name":"chicken",
+    "word":"chicken",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q830",
-    "name":"cattle",
+    "word":"cattle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1367",
-    "name":"monkey",
+    "word":"monkey",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2102",
-    "name":"snake",
+    "word":"snake",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2934",
-    "name":"goat",
+    "word":"goat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2935",
-    "name":"calf",
+    "word":"calf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5113",
-    "name":"birds",
+    "word":"birds",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7368",
-    "name":"sheep",
+    "word":"sheep",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7369",
-    "name":"dolphin",
+    "word":"dolphin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7378",
-    "name":"elephant",
+    "word":"elephant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8329",
-    "name":"parakeet",
+    "word":"parakeet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8331",
-    "name":"fox",
+    "word":"fox",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8335",
-    "name":"raven",
+    "word":"raven",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9394",
-    "name":"rabbit",
+    "word":"rabbit",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10884",
-    "name":"tree",
+    "word":"tree",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q10884",
-    "name":"tree",
+    "word":"tree",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13676",
-    "name":"Dermaptera",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q15787",
-    "name":"HIV",
+    "word":"Dermaptera",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17700",
-    "name":"Mink",
+    "word":"Mink",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25894",
-    "name":"antelope",
+    "word":"antelope",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q26018",
-    "name":"rat",
+    "word":"rat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30178",
-    "name":"jellyfish",
+    "word":"jellyfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q34384",
-    "name":"swan",
+    "word":"swan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q36940",
-    "name":"sugarcane",
+    "word":"sugarcane",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q36940",
-    "name":"sugarcane",
-    "category":"Animal"
+    "word":"sugarcane",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q37868",
-    "name":"algae",
-    "category":"Animal"
+    "word":"algae",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q45422",
-    "name":"yeast",
-    "category":"Animal"
+    "word":"yeast",
+    "category":"Fungus"
   },
   {
     "wikidata_id":"Q47793",
-    "name":"tilapia",
+    "word":"tilapia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q55808",
-    "name":"seabird",
+    "word":"seabird",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q80005",
-    "name":"fern",
+    "word":"fern",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q83931",
-    "name":"locust",
+    "word":"locust",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101274",
-    "name":"protozoa",
-    "category":"Animal"
+    "word":"protozoa",
+    "category":"protozoa"
   },
   {
     "wikidata_id":"Q102231",
-    "name":"rose",
+    "word":"rose",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q103459",
-    "name":"livestock",
+    "word":"livestock",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q123120",
-    "name":"vulture",
+    "word":"vulture",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q125525",
-    "name":"jackal",
+    "word":"jackal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q134385",
-    "name":"fugu",
+    "word":"fugu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q145201",
-    "name":"weasel",
+    "word":"weasel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q171446",
-    "name":"coral",
+    "word":"coral",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q178559",
-    "name":"poultry",
+    "word":"poultry",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q184755",
-    "name":"phytoplankton",
+    "word":"phytoplankton",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q185215",
-    "name":"piranha",
+    "word":"piranha",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q190294",
-    "name":"Mouflon",
+    "word":"Mouflon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q201251",
-    "name":"peafowl",
+    "word":"peafowl",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q201565",
-    "name":"nori",
+    "word":"nori",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q201565",
-    "name":"nori",
-    "category":"Animal"
+    "word":"nori",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q208342",
-    "name":"kite",
+    "word":"kite",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q214169",
-    "name":"pheasant",
+    "word":"pheasant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q217549",
-    "name":"darter",
+    "word":"darter",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16966374",
-    "name":"Lleyn",
+    "word":"Lleyn",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16972614",
-    "name":"Ciuta",
+    "word":"Ciuta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16980751",
-    "name":"Finarda",
+    "word":"Finarda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16981283",
-    "name":"Frabosana",
+    "word":"Frabosana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16981667",
-    "name":"Garessina",
+    "word":"Garessina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16984217",
-    "name":"Lamon",
+    "word":"Lamon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16985218",
-    "name":"Matesina",
+    "word":"Matesina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16988135",
-    "name":"Pinzirita",
+    "word":"Pinzirita",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16988410",
-    "name":"Pomarancina",
+    "word":"Pomarancina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16988902",
-    "name":"Pusterese",
+    "word":"Pusterese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16992153",
-    "name":"Nostrana",
+    "word":"Nostrana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16992333",
-    "name":"Rosset",
+    "word":"Rosset",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16992389",
-    "name":"Saltasassi",
+    "word":"Saltasassi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16992395",
-    "name":"Sambucana",
+    "word":"Sambucana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16992617",
-    "name":"Sopravissana",
+    "word":"Sopravissana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16992926",
-    "name":"Tacola",
+    "word":"Tacola",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16993377",
-    "name":"Varesina",
+    "word":"Varesina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16993602",
-    "name":"Zerasca",
+    "word":"Zerasca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16994467",
-    "name":"Sciara",
+    "word":"Sciara",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17021263",
-    "name":"Perendale",
+    "word":"Perendale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17049352",
-    "name":"Bagnolese",
+    "word":"Bagnolese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17049851",
-    "name":"Istriana",
+    "word":"Istriana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17051489",
-    "name":"Marrana",
+    "word":"Marrana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17054062",
-    "name":"Savoiarda",
+    "word":"Savoiarda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17056745",
-    "name":"Vissana",
+    "word":"Vissana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17100375",
-    "name":"Leccese",
+    "word":"Leccese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17125138",
-    "name":"Polypay",
+    "word":"Polypay",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17492599",
-    "name":"Serrai",
+    "word":"Serrai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17636079",
-    "name":"Comarqueña",
+    "word":"Comarqueña",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18124959",
-    "name":"Gaddi",
+    "word":"Gaddi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18334858",
-    "name":"Värmlandsfår",
+    "word":"Värmlandsfår",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20101399",
-    "name":"Menorquina",
+    "word":"Menorquina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21657077",
-    "name":"Grozny",
+    "word":"Grozny",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21698108",
-    "name":"Mazekh",
+    "word":"Mazekh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22122783",
-    "name":"Tlyarota",
+    "word":"Tlyarota",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22122785",
-    "name":"Shirazi",
+    "word":"Shirazi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22122788",
-    "name":"Lettelle",
+    "word":"Lettelle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25171675",
-    "name":"Masham",
+    "word":"Masham",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25378160",
-    "name":"Sicilo-Sarda",
+    "word":"Sicilo-Sarda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25506594",
-    "name":"Degeress",
+    "word":"Degeress",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25510906",
-    "name":"Saraja",
+    "word":"Saraja",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28229613",
-    "name":"Turchessa",
+    "word":"Turchessa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28229615",
-    "name":"Livo",
+    "word":"Livo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28501369",
-    "name":"Castellana",
+    "word":"Castellana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28716666",
-    "name":"Harri",
+    "word":"Harri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30014605",
-    "name":"Såne",
+    "word":"Såne",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q31284834",
-    "name":"Sfakia",
+    "word":"Sfakia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q31368494",
-    "name":"Mecheri",
+    "word":"Mecheri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q40378615",
-    "name":"Barki",
+    "word":"Barki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q40967730",
-    "name":"Karagouniko",
+    "word":"Karagouniko",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q48780673",
-    "name":"Kajli",
+    "word":"Kajli",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q53678041",
-    "name":"Swifter",
+    "word":"Swifter",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q219035",
-    "name":"macaw",
+    "word":"macaw",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q237169",
-    "name":"seaweed",
-    "category":"Animal"
+    "word":"seaweed",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q260094",
-    "name":"Mbuna",
+    "word":"Mbuna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q308841",
-    "name":"snail",
+    "word":"snail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q333458",
-    "name":"cryptogam",
+    "word":"cryptogam",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q333458",
-    "name":"cryptogam",
-    "category":"Animal"
+    "word":"cryptogam",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q366291",
-    "name":"cowry",
+    "word":"cowry",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q376515",
-    "name":"Argus",
+    "word":"Argus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q378846",
-    "name":"koi",
+    "word":"koi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q379813",
-    "name":"bean",
+    "word":"bean",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q388450",
-    "name":"crow",
+    "word":"crow",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q467524",
-    "name":"Mangabey",
+    "word":"Mangabey",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q503394",
-    "name":"turnip",
-    "category":"Animal"
+    "word":"turnip",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q506524",
-    "name":"amoeba",
+    "word":"amoeba",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q538906",
-    "name":"thistle",
+    "word":"thistle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q573876",
-    "name":"Bluebonnet",
+    "word":"Bluebonnet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q586080",
-    "name":"killifish",
+    "word":"killifish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q604791",
-    "name":"Protosteloid",
+    "word":"Protosteloid",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q609478",
-    "name":"Gourami",
+    "word":"Gourami",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q623169",
-    "name":"wallaby",
+    "word":"wallaby",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q630622",
-    "name":"arbovirus",
+    "word":"arbovirus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q633379",
-    "name":"whitefish",
+    "word":"whitefish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q638105",
-    "name":"badger",
+    "word":"badger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q643352",
-    "name":"grass",
+    "word":"grass",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q693690",
-    "name":"bull",
+    "word":"bull",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q720541",
-    "name":"mockingbird",
+    "word":"mockingbird",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q730688",
-    "name":"Flameback",
+    "word":"Flameback",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q732775",
-    "name":"partridge",
+    "word":"partridge",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q774278",
-    "name":"scallion",
+    "word":"scallion",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q774278",
-    "name":"scallion",
-    "category":"Animal"
+    "word":"scallion",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q844397",
-    "name":"razorback",
+    "word":"razorback",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q846664",
-    "name":"hawk",
+    "word":"hawk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q859257",
-    "name":"fly",
+    "word":"fly",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q859818",
-    "name":"prions",
+    "word":"prions",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q905352",
-    "name":"Diglossa",
+    "word":"Diglossa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q934657",
-    "name":"Hypoderma",
+    "word":"Hypoderma",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q935931",
-    "name":"Boto",
+    "word":"Boto",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q939446",
-    "name":"Kakariki",
+    "word":"Kakariki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q951220",
-    "name":"ibex",
+    "word":"ibex",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q957750",
-    "name":"bindweed",
-    "category":"Animal"
+    "word":"bindweed",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q1058410",
-    "name":"prawn",
+    "word":"prawn",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1065917",
-    "name":"wētā",
+    "word":"wētā",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1087592",
-    "name":"aspen",
+    "word":"aspen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1089046",
-    "name":"Chub",
+    "word":"Chub",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1138287",
-    "name":"Coxsackievirus",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1190089",
-    "name":"caveperson",
+    "word":"Coxsackievirus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1192868",
-    "name":"clam",
+    "word":"clam",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1211606",
-    "name":"condor",
+    "word":"condor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1211742",
-    "name":"crayfish",
+    "word":"crayfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1223829",
-    "name":"porcupine",
+    "word":"porcupine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7323",
-    "name":"Toyger",
+    "word":"Toyger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7955",
-    "name":"Abyssinian",
+    "word":"Abyssinian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7967",
-    "name":"Antipodean",
+    "word":"Antipodean",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7974",
-    "name":"Asian",
+    "word":"Asian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9667",
-    "name":"Bambino",
+    "word":"Bambino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29258",
-    "name":"Burmilla",
+    "word":"Burmilla",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42539",
-    "name":"Anatoli",
+    "word":"Anatoli",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42546",
-    "name":"Chausie",
+    "word":"Chausie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28063845",
-    "name":"Pulin",
+    "word":"Pulin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30891717",
-    "name":"Medelyan",
+    "word":"Medelyan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q57257840",
-    "name":"Calupoh",
+    "word":"Calupoh",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q57305587",
-    "name":"Bullbras",
+    "word":"Bullbras",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q99640545",
-    "name":"westiepoo",
+    "word":"westiepoo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105429234",
-    "name":"Shepweiler",
+    "word":"Shepweiler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q107210039",
-    "name":"Mi-Ki",
+    "word":"Mi-Ki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q107303989",
-    "name":"Buckhound",
+    "word":"Buckhound",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q107444250",
-    "name":"Staghound",
+    "word":"Staghound",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29838690",
-    "name":"deer",
+    "word":"deer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29887661",
-    "name":"Cyanophages",
+    "word":"Cyanophages",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29994594",
-    "name":"willow",
+    "word":"willow",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30090244",
-    "name":"bear",
+    "word":"bear",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30314518",
-    "name":"ESKAPE",
+    "word":"ESKAPE",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q31835038",
-    "name":"marten",
+    "word":"marten",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q31862308",
-    "name":"penguin",
-    "category":"Unknown"
+    "word":"penguin",
+    "category":"Animal"
   },
   {
     "wikidata_id":"Q31862308",
-    "name":"penguin",
+    "word":"penguin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q32945370",
-    "name":"turtles",
+    "word":"turtles",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q40458125",
-    "name":"lily",
+    "word":"lily",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q40458125",
-    "name":"lily",
-    "category":"Animal"
+    "word":"lily",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q43604020",
-    "name":"skunk",
+    "word":"skunk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q43730466",
-    "name":"rat",
+    "word":"rat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q44048088",
-    "name":"crottle",
+    "word":"crottle",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q44048088",
-    "name":"crottle",
-    "category":"Animal"
+    "word":"crottle",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q46600415",
-    "name":"polecat",
+    "word":"polecat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q48995566",
-    "name":"anashe",
+    "word":"anashe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q55643377",
-    "name":"Songlark",
+    "word":"Songlark",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q55643418",
-    "name":"Thicketbird",
+    "word":"Thicketbird",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56274132",
-    "name":"Triller",
+    "word":"Triller",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56282003",
-    "name":"goby",
+    "word":"goby",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56315380",
-    "name":"moth",
+    "word":"moth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56315400",
-    "name":"Boa",
+    "word":"Boa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q57751738",
-    "name":"Coronavirus",
+    "word":"Coronavirus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60708120",
-    "name":"bilberry",
+    "word":"bilberry",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q60708120",
-    "name":"bilberry",
-    "category":"Animal"
+    "word":"bilberry",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q63941258",
-    "name":"hare",
+    "word":"hare",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q66018129",
-    "name":"Jocko",
+    "word":"Jocko",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q66619205",
-    "name":"mulberry",
+    "word":"mulberry",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q66768684",
-    "name":"Mozuku",
+    "word":"Mozuku",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q68457511",
-    "name":"flatfish",
+    "word":"flatfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q73639401",
-    "name":"monarque",
+    "word":"monarque",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1255459",
-    "name":"wireworm",
+    "word":"wireworm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1289807",
-    "name":"hake",
+    "word":"hake",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1425706",
-    "name":"Passerellidae",
+    "word":"Passerellidae",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1475195",
-    "name":"Furu",
+    "word":"Furu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1517781",
-    "name":"shrimp",
+    "word":"shrimp",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1588333",
-    "name":"Lotus",
-    "category":"Animal"
+    "word":"Lotus",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q1623471",
-    "name":"wallaroo",
+    "word":"wallaroo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1633480",
-    "name":"Puntarelle",
+    "word":"Puntarelle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1639882",
-    "name":"macrobenthos",
+    "word":"macrobenthos",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1661828",
-    "name":"cockroach",
+    "word":"cockroach",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1680673",
-    "name":"Utaka",
+    "word":"Utaka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1737198",
-    "name":"Kauz",
+    "word":"Kauz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1759052",
-    "name":"puffball",
+    "word":"puffball",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1771944",
-    "name":"taro",
+    "word":"taro",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1773547",
-    "name":"Guaco",
+    "word":"Guaco",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1811658",
-    "name":"orthocone",
+    "word":"orthocone",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1828662",
-    "name":"Lapacho",
+    "word":"Lapacho",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1865281",
-    "name":"whale",
+    "word":"whale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1869705",
-    "name":"Cama",
+    "word":"Cama",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1953597",
-    "name":"slug",
+    "word":"slug",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1969349",
-    "name":"bolete",
+    "word":"bolete",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2092297",
-    "name":"eagle",
+    "word":"eagle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2213958",
-    "name":"Swiftlet",
+    "word":"Swiftlet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2234359",
-    "name":"midge",
+    "word":"midge",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2258881",
-    "name":"trout",
+    "word":"trout",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2303322",
-    "name":"cobra",
+    "word":"cobra",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2355706",
-    "name":"Kudu",
+    "word":"Kudu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2379170",
-    "name":"Säuleneiche",
+    "word":"Säuleneiche",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q2379170",
-    "name":"Säuleneiche",
+    "word":"Säuleneiche",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2384195",
-    "name":"agaric",
-    "category":"Animal"
+    "word":"agaric",
+    "category":"Fungus"
   },
   {
     "wikidata_id":"Q2384195",
-    "name":"agaric",
+    "word":"agaric",
     "category":"Fungus"
   },
   {
     "wikidata_id":"Q2441993",
-    "name":"mite",
+    "word":"mite",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2488588",
-    "name":"kestrel",
+    "word":"kestrel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2495957",
-    "name":"magpie",
+    "word":"magpie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2529292",
-    "name":"Megaherb",
+    "word":"Megaherb",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2533926",
-    "name":"Génépi",
+    "word":"Génépi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2535664",
-    "name":"crocodile",
+    "word":"crocodile",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2592620",
-    "name":"Puffleg",
+    "word":"Puffleg",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2618487",
-    "name":"Rhynchobdellida",
+    "word":"Rhynchobdellida",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2689896",
-    "name":"huckleberry",
-    "category":"Animal"
+    "word":"huckleberry",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q2696986",
-    "name":"Vatica",
+    "word":"Vatica",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2729486",
-    "name":"shearwater",
+    "word":"shearwater",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2734060",
-    "name":"reed",
-    "category":"Animal"
+    "word":"reed",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q2739129",
-    "name":"Cuscus",
+    "word":"Cuscus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2742836",
-    "name":"Sauterelle",
+    "word":"Sauterelle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q54872112",
-    "name":"Shafali",
+    "word":"Shafali",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447316",
-    "name":"Berganese",
+    "word":"Berganese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447317",
-    "name":"Pantaneiro",
+    "word":"Pantaneiro",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447319",
-    "name":"Cariri",
+    "word":"Cariri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447320",
-    "name":"Soinga",
+    "word":"Soinga",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447325",
-    "name":"Nambi",
+    "word":"Nambi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447326",
-    "name":"Crioula",
+    "word":"Crioula",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447327",
-    "name":"Cabugi",
+    "word":"Cabugi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q60447331",
-    "name":"Jaguaribe",
+    "word":"Jaguaribe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q61065048",
-    "name":"Coimbatore",
+    "word":"Coimbatore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q62091253",
-    "name":"Ansotana",
+    "word":"Ansotana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q62091276",
-    "name":"Maellana",
+    "word":"Maellana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q62092395",
-    "name":"Talaverana",
+    "word":"Talaverana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q65285533",
-    "name":"Coimbatore",
+    "word":"Coimbatore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q65285948",
-    "name":"Chevaadu",
+    "word":"Chevaadu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q65286133",
-    "name":"Vembur",
+    "word":"Vembur",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q65315526",
-    "name":"Sharmountain",
+    "word":"Sharmountain",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q65315610",
-    "name":"Baluska",
+    "word":"Baluska",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q93608431",
-    "name":"Peul-peul",
+    "word":"Peul-peul",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q93633954",
-    "name":"Ladoum",
+    "word":"Ladoum",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q93741300",
-    "name":"Touabire",
+    "word":"Touabire",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q94011686",
-    "name":"Macina",
+    "word":"Macina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q94440636",
-    "name":"Ibeidi",
+    "word":"Ibeidi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q94533598",
-    "name":"Ossimi",
+    "word":"Ossimi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q96657758",
-    "name":"Sabi",
+    "word":"Sabi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q96756732",
-    "name":"Chamarita",
+    "word":"Chamarita",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q98270673",
-    "name":"Sardi",
+    "word":"Sardi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100257166",
-    "name":"Junín",
+    "word":"Junín",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100313592",
-    "name":"Entre-Sambre-et-Meuse",
+    "word":"Entre-Sambre-et-Meuse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100564591",
-    "name":"Carranzana",
+    "word":"Carranzana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100604647",
-    "name":"Corino",
+    "word":"Corino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100700101",
-    "name":"Yankasa",
+    "word":"Yankasa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100707675",
-    "name":"Pampinta",
+    "word":"Pampinta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100889974",
-    "name":"Gökçeada",
+    "word":"Gökçeada",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100894160",
-    "name":"Hanzhong",
+    "word":"Hanzhong",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100894272",
-    "name":"Harnai",
+    "word":"Harnai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100894462",
-    "name":"Hashtnagri",
+    "word":"Hashtnagri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100894573",
-    "name":"Hazaragie",
+    "word":"Hazaragie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100978672",
-    "name":"Nellore",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q101041981",
-    "name":"DLS",
+    "word":"Nellore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101043770",
-    "name":"Gadik",
+    "word":"Gadik",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101044073",
-    "name":"Ghiljai",
+    "word":"Ghiljai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101044319",
-    "name":"Kandahari",
+    "word":"Kandahari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101044664",
-    "name":"Turki",
+    "word":"Turki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101047993",
-    "name":"Tadmit",
+    "word":"Tadmit",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101095830",
-    "name":"Nolana",
+    "word":"Nolana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101584198",
-    "name":"Golemi",
+    "word":"Golemi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101584213",
-    "name":"Havasi",
+    "word":"Havasi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101584263",
-    "name":"Mati",
+    "word":"Mati",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101584291",
-    "name":"Shkodra",
+    "word":"Shkodra",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101584342",
-    "name":"Zagoria",
+    "word":"Zagoria",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q101584361",
-    "name":"Raimbi",
+    "word":"Raimbi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q103846702",
-    "name":"Deccani",
+    "word":"Deccani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q103944329",
-    "name":"Garole",
+    "word":"Garole",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104067929",
-    "name":"Dormer",
+    "word":"Dormer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104068563",
-    "name":"Hottentot",
+    "word":"Hottentot",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108123375",
-    "name":"Aussiedoodle",
+    "word":"Aussiedoodle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108893184",
-    "name":"Frenchton",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q109018451",
-    "name":"Taimyr",
+    "word":"Frenchton",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q113403824",
-    "name":"Valdueza",
+    "word":"Valdueza",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42566",
-    "name":"Bombay",
+    "word":"Bombay",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42573",
-    "name":"Burmese",
+    "word":"Burmese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42578",
-    "name":"Cymric",
+    "word":"Cymric",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42588",
-    "name":"Chartreux",
+    "word":"Chartreux",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42604",
-    "name":"Siamese",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q42630",
-    "name":"Siberian",
+    "word":"Siamese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42633",
-    "name":"snowshoe",
+    "word":"snowshoe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42637",
-    "name":"Ragamuffin",
+    "word":"Ragamuffin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42639",
-    "name":"LaPerm",
+    "word":"LaPerm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42647",
-    "name":"Nebelung",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q42661",
-    "name":"Javanese",
+    "word":"Nebelung",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42663",
-    "name":"Peterbald",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q42670",
-    "name":"Savannah",
+    "word":"Peterbald",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42675",
-    "name":"Manx",
+    "word":"Manx",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42679",
-    "name":"Singapura",
+    "word":"Singapura",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42685",
-    "name":"Ocicat",
+    "word":"Ocicat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42688",
-    "name":"Ragdoll",
+    "word":"Ragdoll",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42691",
-    "name":"Korat",
+    "word":"Korat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42693",
-    "name":"Pixie-bob",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q42704",
-    "name":"Safari",
+    "word":"Pixie-bob",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42712",
-    "name":"Sphynx",
+    "word":"Sphynx",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42715",
-    "name":"Somali",
+    "word":"Somali",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42726",
-    "name":"Tonkinese",
+    "word":"Tonkinese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42732",
-    "name":"Thai",
+    "word":"Thai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q42959",
-    "name":"Himalayan",
+    "word":"Himalayan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q392693",
-    "name":"Chantilly-Tiffany",
+    "word":"Chantilly-Tiffany",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1812184",
-    "name":"Ashera",
+    "word":"Ashera",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2075066",
-    "name":"Sokoke",
+    "word":"Sokoke",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2751034",
-    "name":"mouse",
+    "word":"mouse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2751223",
-    "name":"carp",
+    "word":"carp",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2796766",
-    "name":"salmon",
+    "word":"salmon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2839337",
-    "name":"lark",
+    "word":"lark",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2885646",
-    "name":"mistletoe",
+    "word":"mistletoe",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q2885646",
-    "name":"mistletoe",
+    "word":"mistletoe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2921621",
-    "name":"Bouillon-blanc",
+    "word":"Bouillon-blanc",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2927410",
-    "name":"Bucarde",
+    "word":"Bucarde",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2933526",
-    "name":"Calament",
+    "word":"Calament",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2941478",
-    "name":"beaver",
+    "word":"beaver",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2982547",
-    "name":"colibri",
+    "word":"colibri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2984084",
-    "name":"colobe",
+    "word":"colobe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2984138",
-    "name":"pigeon",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q2996933",
-    "name":"Coquette",
+    "word":"pigeon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2998680",
-    "name":"cuckoo",
+    "word":"cuckoo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2998701",
-    "name":"Gnats",
+    "word":"Gnats",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3051888",
-    "name":"Tangor",
+    "word":"Tangor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3060012",
-    "name":"egret",
+    "word":"egret",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3067559",
-    "name":"warbler",
+    "word":"warbler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3074737",
-    "name":"halibut",
+    "word":"halibut",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3082420",
-    "name":"francolins",
+    "word":"francolins",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3091399",
-    "name":"dandelion",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3100576",
-    "name":"Genette",
+    "word":"dandelion",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3112866",
-    "name":"gull",
+    "word":"gull",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3116510",
-    "name":"frog",
+    "word":"frog",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3116821",
-    "name":"Grive",
+    "word":"Grive",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3116925",
-    "name":"Gurnard",
+    "word":"Gurnard",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3120530",
-    "name":"guillemot",
+    "word":"guillemot",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3127419",
-    "name":"herring",
+    "word":"herring",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3130200",
-    "name":"Tahr",
+    "word":"Tahr",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3145037",
-    "name":"hedgehog",
+    "word":"hedgehog",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3189180",
-    "name":"mole",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3218275",
-    "name":"laser",
+    "word":"mole",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3226851",
-    "name":"Morel",
+    "word":"Morel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3241272",
-    "name":"Toadflax",
+    "word":"Toadflax",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3241720",
-    "name":"Kowhai",
+    "word":"Kowhai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3248828",
-    "name":"vine",
+    "word":"vine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3248829",
-    "name":"glowworm",
+    "word":"glowworm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3249808",
-    "name":"bookworm",
+    "word":"bookworm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3250097",
-    "name":"Treepie",
+    "word":"Treepie",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3257722",
-    "name":"loach",
+    "word":"loach",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3259077",
-    "name":"heron",
+    "word":"heron",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3287159",
-    "name":"manzanita",
+    "word":"manzanita",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3295314",
-    "name":"myna",
+    "word":"myna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3306164",
-    "name":"anaconda",
+    "word":"anaconda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3333234",
-    "name":"minnow",
+    "word":"minnow",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3363288",
-    "name":"Paradisier",
+    "word":"Paradisier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3368448",
-    "name":"Pastenague",
+    "word":"Pastenague",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3375090",
-    "name":"Galanthus",
+    "word":"Galanthus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3389348",
-    "name":"Pitohui",
+    "word":"Pitohui",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3394068",
-    "name":"Polatouche",
+    "word":"Polatouche",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3396090",
-    "name":"Pompia",
+    "word":"Pompia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3469018",
-    "name":"snipe",
+    "word":"snipe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3469592",
-    "name":"salamander",
+    "word":"salamander",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3039052",
-    "name":"Minskin",
+    "word":"Minskin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3481000",
-    "name":"Seychellois",
+    "word":"Seychellois",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3486361",
-    "name":"Skookum",
+    "word":"Skookum",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3816165",
-    "name":"Kohona",
+    "word":"Kohona",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7582359",
-    "name":"squitten",
+    "word":"squitten",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16889351",
-    "name":"dwelf",
+    "word":"dwelf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21002394",
-    "name":"Suphalak",
+    "word":"Suphalak",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30595152",
-    "name":"Toybob",
+    "word":"Toybob",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56411069",
-    "name":"Lambkin",
+    "word":"Lambkin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56411080",
-    "name":"genetta",
+    "word":"genetta",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q97546690",
-    "name":"Kohana",
+    "word":"Kohana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22623",
-    "name":"Palatinate-Ardennes",
+    "word":"Palatinate-Ardennes",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q146898",
-    "name":"Zangersheide",
+    "word":"Zangersheide",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q167620",
-    "name":"Araber-Haflinger",
+    "word":"Araber-Haflinger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q206557",
-    "name":"Konik",
+    "word":"Konik",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q210826",
-    "name":"thoroughbred",
+    "word":"thoroughbred",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q211848",
-    "name":"mustang",
+    "word":"mustang",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q217671",
-    "name":"Lipizzaner",
+    "word":"Lipizzaner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q232350",
-    "name":"Zweibrücker",
+    "word":"Zweibrücker",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q248295",
-    "name":"Lokai",
+    "word":"Lokai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q257478",
-    "name":"Garrano",
+    "word":"Garrano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q285445",
-    "name":"Gidran",
+    "word":"Gidran",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q371087",
-    "name":"Brandenburger",
+    "word":"Brandenburger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q380595",
-    "name":"Aegidienberger",
+    "word":"Aegidienberger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q393792",
-    "name":"Žemaitukas",
+    "word":"Žemaitukas",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q452434",
-    "name":"Arravani",
+    "word":"Arravani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q467024",
-    "name":"Standardbred",
+    "word":"Standardbred",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q472753",
-    "name":"Akhal-Teke",
+    "word":"Akhal-Teke",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q240806",
-    "name":"Lakenvelder",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q289829",
-    "name":"Yokohama",
+    "word":"Lakenvelder",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q325039",
-    "name":"Ardennaise",
+    "word":"Ardennaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q326301",
-    "name":"broiler",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q385059",
-    "name":"Polish",
+    "word":"broiler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q429315",
-    "name":"Amrock",
+    "word":"Amrock",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q445706",
-    "name":"Altsteirer",
+    "word":"Altsteirer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q474592",
-    "name":"Malines",
+    "word":"Malines",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q474894",
-    "name":"Dresdner",
+    "word":"Dresdner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q489766",
-    "name":"Andalusian",
+    "word":"Andalusian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q494252",
-    "name":"Wugu-ji",
+    "word":"Wugu-ji",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q523950",
-    "name":"Cubalaya",
+    "word":"Cubalaya",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q528387",
-    "name":"Braekel",
+    "word":"Braekel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104070424",
-    "name":"Vandor",
+    "word":"Vandor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q389856",
-    "name":"Majorera",
+    "word":"Majorera",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q678017",
-    "name":"Stiefelgeiss",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q766176",
-    "name":"Boer",
+    "word":"Stiefelgeiss",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1043718",
-    "name":"Toggenburg",
+    "word":"Toggenburg",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1297895",
-    "name":"Tauernsheck",
+    "word":"Tauernsheck",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1305107",
-    "name":"Girgentana",
+    "word":"Girgentana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1679758",
-    "name":"Orenburg",
+    "word":"Orenburg",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2523612",
-    "name":"Vierhornziege",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q2637507",
-    "name":"Anglo-Nubian",
+    "word":"Vierhornziege",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2840092",
-    "name":"Alpine",
+    "word":"Alpine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3197327",
-    "name":"Kirdimi",
+    "word":"Kirdimi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3525633",
-    "name":"Jamnapari",
+    "word":"Jamnapari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3595685",
-    "name":"Beetal",
+    "word":"Beetal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3657807",
-    "name":"Oberhasli",
+    "word":"Oberhasli",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3657818",
-    "name":"Garganica",
+    "word":"Garganica",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3875809",
-    "name":"Nicastrese",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5045604",
-    "name":"Carpathian",
+    "word":"Nicastrese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5069486",
-    "name":"Chamba",
+    "word":"Chamba",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5086552",
-    "name":"Charnequeira",
+    "word":"Charnequeira",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104368595",
-    "name":"Ganjam",
+    "word":"Ganjam",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104378942",
-    "name":"Balangir",
+    "word":"Balangir",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104383019",
-    "name":"Muzaffarnagari",
+    "word":"Muzaffarnagari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105514520",
-    "name":"Tazegzawt",
+    "word":"Tazegzawt",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105545624",
-    "name":"Bagri",
+    "word":"Bagri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105546609",
-    "name":"Bonpala",
+    "word":"Bonpala",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105546716",
-    "name":"Baruwal",
+    "word":"Baruwal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q109569661",
-    "name":"Kenguri",
+    "word":"Kenguri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q110492620",
-    "name":"Linca",
+    "word":"Linca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q113833593",
-    "name":"Bali-Bali",
+    "word":"Bali-Bali",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q118139834",
-    "name":"Canaria",
+    "word":"Canaria",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q83619152",
-    "name":"cottonwood",
+    "word":"cottonwood",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q98804926",
-    "name":"Mone",
+    "word":"Mone",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q99542755",
-    "name":"hagi",
+    "word":"hagi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q100146581",
-    "name":"forcepstail",
+    "word":"forcepstail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104840543",
-    "name":"armadillo",
+    "word":"armadillo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q104869806",
-    "name":"Redfish",
+    "word":"Redfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105587932",
-    "name":"Carboxydotrophs",
+    "word":"Carboxydotrophs",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106241430",
-    "name":"Attila",
+    "word":"Attila",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106513115",
-    "name":"silkworm",
+    "word":"silkworm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106695054",
-    "name":"camel",
+    "word":"camel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q108756948",
-    "name":"creepy-crawlies",
+    "word":"creepy-crawlies",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q110551885",
-    "name":"mammal",
+    "word":"mammal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q110551902",
-    "name":"vertebrate",
+    "word":"vertebrate",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q111096445",
-    "name":"elderberry",
-    "category":"Animal"
+    "word":"elderberry",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q112978600",
-    "name":"cockchafer",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q495079",
-    "name":"Adaev",
+    "word":"cockchafer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q517359",
-    "name":"Misaki",
+    "word":"Misaki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q523878",
-    "name":"Dülmener",
+    "word":"Dülmener",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q546030",
-    "name":"AraAppaloosa",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q551732",
-    "name":"Württemberger",
+    "word":"AraAppaloosa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q583013",
-    "name":"Arabo-friesian",
+    "word":"Arabo-friesian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q588252",
-    "name":"Boulonnais",
+    "word":"Boulonnais",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q606912",
-    "name":"Iomud",
+    "word":"Iomud",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q609630",
-    "name":"Haflinger",
+    "word":"Haflinger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q613922",
-    "name":"Falabella",
+    "word":"Falabella",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q620656",
-    "name":"Appaloosa",
+    "word":"Appaloosa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q623720",
-    "name":"Arab-Barb",
+    "word":"Arab-Barb",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q623782",
-    "name":"Pintabian",
+    "word":"Pintabian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q631742",
-    "name":"Quarab",
+    "word":"Quarab",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q641693",
-    "name":"Arenberg-Nordkirchen",
+    "word":"Arenberg-Nordkirchen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q673441",
-    "name":"Freiberger",
+    "word":"Freiberger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q749070",
-    "name":"Dølehest",
+    "word":"Dølehest",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q752222",
-    "name":"Asturcón",
+    "word":"Asturcón",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q789720",
-    "name":"Auxois",
+    "word":"Auxois",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q804888",
-    "name":"Mallorquín",
+    "word":"Mallorquín",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q808022",
-    "name":"Bardigiano",
+    "word":"Bardigiano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q843585",
-    "name":"Trakehner",
+    "word":"Trakehner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q850232",
-    "name":"Brumby",
+    "word":"Brumby",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q906428",
-    "name":"Messara",
+    "word":"Messara",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q927650",
-    "name":"Sorraia",
+    "word":"Sorraia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q928206",
-    "name":"Kustanair",
+    "word":"Kustanair",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q937595",
-    "name":"Lusitano",
+    "word":"Lusitano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q951720",
-    "name":"Vlaamperd",
+    "word":"Vlaamperd",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q954107",
-    "name":"Mangalarga",
+    "word":"Mangalarga",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1001507",
-    "name":"Finnhorse",
+    "word":"Finnhorse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1030707",
-    "name":"Campeiro",
+    "word":"Campeiro",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1031529",
-    "name":"Campolina",
+    "word":"Campolina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1105488",
-    "name":"Kathiawari",
+    "word":"Kathiawari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1184220",
-    "name":"Deliboz",
+    "word":"Deliboz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1232528",
-    "name":"Percheron",
+    "word":"Percheron",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1283242",
-    "name":"Edelbluthaflinger",
+    "word":"Edelbluthaflinger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1304225",
-    "name":"Guba",
+    "word":"Guba",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3485777",
-    "name":"Sizerin",
+    "word":"Sizerin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3515726",
-    "name":"siskin",
+    "word":"siskin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3535557",
-    "name":"turtledove",
+    "word":"turtledove",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3537778",
-    "name":"donkey",
+    "word":"donkey",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3540783",
-    "name":"Troque",
+    "word":"Troque",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3561017",
-    "name":"viscacha",
+    "word":"viscacha",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3589095",
-    "name":"Sparrowhawk",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3595952",
-    "name":"Titi",
+    "word":"Sparrowhawk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3711046",
-    "name":"eel",
+    "word":"eel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3711329",
-    "name":"wolf",
+    "word":"wolf",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3736439",
-    "name":"duck",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q3776776",
-    "name":"cricket",
+    "word":"duck",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3780168",
-    "name":"bunting",
+    "word":"bunting",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3850382",
-    "name":"Redstart",
+    "word":"Redstart",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3852063",
-    "name":"conure",
+    "word":"conure",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3916915",
-    "name":"dormouse",
+    "word":"dormouse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3917144",
-    "name":"Domeykosaurus",
+    "word":"Domeykosaurus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3942018",
-    "name":"Chanterelle",
+    "word":"Chanterelle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4242107",
-    "name":"plaice",
+    "word":"plaice",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4246303",
-    "name":"flounder",
+    "word":"flounder",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4351221",
-    "name":"goanna",
+    "word":"goanna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4382754",
-    "name":"Marron",
+    "word":"Marron",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4671794",
-    "name":"Gröngrodor",
+    "word":"Gröngrodor",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4674600",
-    "name":"acotyledon",
+    "word":"acotyledon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4741350",
-    "name":"Amberjack",
+    "word":"Amberjack",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4767951",
-    "name":"cattle",
+    "word":"cattle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4790232",
-    "name":"Arianis",
+    "word":"Arianis",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4857439",
-    "name":"Abalone",
+    "word":"Abalone",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4982297",
-    "name":"HCoV-EMC",
+    "word":"HCoV-EMC",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5028595",
-    "name":"Camptosomata",
+    "word":"Camptosomata",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5051620",
-    "name":"catbird",
+    "word":"catbird",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5067730",
-    "name":"chahuis",
+    "word":"chahuis",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5070208",
-    "name":"kangaroo",
+    "word":"kangaroo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5099430",
-    "name":"Chimo",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5122131",
-    "name":"Cisco",
+    "word":"Chimo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5141254",
-    "name":"sardine",
+    "word":"sardine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5182239",
-    "name":"Cranopsis",
+    "word":"Cranopsis",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5260412",
-    "name":"anago",
+    "word":"anago",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5333995",
-    "name":"Ectocochleate",
+    "word":"Ectocochleate",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5350369",
-    "name":"Ekbletomys",
+    "word":"Ekbletomys",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5464375",
-    "name":"Foliicolous",
+    "word":"Foliicolous",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5479132",
-    "name":"Coati",
+    "word":"Coati",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q118163816",
-    "name":"Palmera",
+    "word":"Palmera",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5925145",
-    "name":"Huai",
+    "word":"Huai",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6275571",
-    "name":"Jonica",
+    "word":"Jonica",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6346544",
-    "name":"Kaghani",
+    "word":"Kaghani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6358999",
-    "name":"Kamori",
+    "word":"Kamori",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6410550",
-    "name":"Kinder",
+    "word":"Kinder",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6744778",
-    "name":"Maltese",
+    "word":"Maltese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6927538",
-    "name":"Moxotó",
+    "word":"Moxotó",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7060975",
-    "name":"Norwegian",
+    "word":"Norwegian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7103707",
-    "name":"Orobica",
+    "word":"Orobica",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7313914",
-    "name":"Repartida",
+    "word":"Repartida",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7423654",
-    "name":"Sarda",
+    "word":"Sarda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7920906",
-    "name":"Verata",
+    "word":"Verata",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8065296",
-    "name":"Zalawadi",
+    "word":"Zalawadi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10554237",
-    "name":"Lappget",
+    "word":"Lappget",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11680390",
-    "name":"Murcia-Granada",
+    "word":"Murcia-Granada",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11910465",
-    "name":"Pitiüsa",
+    "word":"Pitiüsa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q15088165",
-    "name":"Hyrcus",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q15639334",
-    "name":"Catalan",
+    "word":"Hyrcus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16320190",
-    "name":"Changthangi",
+    "word":"Changthangi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16851554",
-    "name":"Canindé",
+    "word":"Canindé",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17300048",
-    "name":"Roccaverano",
+    "word":"Roccaverano",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17508307",
-    "name":"Lariana",
+    "word":"Lariana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17509989",
-    "name":"Sempione",
+    "word":"Sempione",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17511174",
-    "name":"Garfagnina",
+    "word":"Garfagnina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17512634",
-    "name":"Napoletana",
+    "word":"Napoletana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17513372",
-    "name":"Aspromonte",
+    "word":"Aspromonte",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17514242",
-    "name":"Valdostana",
+    "word":"Valdostana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17514371",
-    "name":"Capestrina",
+    "word":"Capestrina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17986489",
-    "name":"Ciavenasca",
+    "word":"Ciavenasca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18126094",
-    "name":"Istriana",
+    "word":"Istriana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18127134",
-    "name":"Laoshan",
+    "word":"Laoshan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18166565",
-    "name":"Valfortorina",
+    "word":"Valfortorina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q579035",
-    "name":"Araucana",
+    "word":"Araucana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q600238",
-    "name":"Uilebaard",
+    "word":"Uilebaard",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q636806",
-    "name":"Leghorn",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q646056",
-    "name":"Sumatra",
+    "word":"Leghorn",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q672001",
-    "name":"Marans",
+    "word":"Marans",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q677692",
-    "name":"Cornish",
+    "word":"Cornish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q679724",
-    "name":"Schweizer",
+    "word":"Schweizer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q679896",
-    "name":"Pépoi",
+    "word":"Pépoi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q730303",
-    "name":"asil",
+    "word":"asil",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q730956",
-    "name":"Onagadori",
+    "word":"Onagadori",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q113330459",
-    "name":"rockfish",
+    "word":"rockfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q113546704",
-    "name":"dove",
+    "word":"dove",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q113976548",
-    "name":"canaries",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q114832486",
-    "name":"Abu",
+    "word":"canaries",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115128259",
-    "name":"spider",
+    "word":"spider",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115130742",
-    "name":"beetle",
+    "word":"beetle",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1236109",
-    "name":"Leinegans",
+    "word":"Leinegans",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1827441",
-    "name":"Lippegans",
+    "word":"Lippegans",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21045145",
-    "name":"Huoyan",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q21045146",
-    "name":"Kuban",
+    "word":"Huoyan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q56303773",
-    "name":"Lindovskaya",
+    "word":"Lindovskaya",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115131816",
-    "name":"bee",
+    "word":"bee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115209314",
-    "name":"buffalo",
+    "word":"buffalo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115343439",
-    "name":"seal",
+    "word":"seal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115378337",
-    "name":"sparrow",
+    "word":"sparrow",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115660148",
-    "name":"cockscomb",
+    "word":"cockscomb",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115690288",
-    "name":"bat",
+    "word":"bat",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115694025",
-    "name":"thrush",
+    "word":"thrush",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115694185",
-    "name":"robin",
+    "word":"robin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115694618",
-    "name":"finch",
+    "word":"finch",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115694948",
-    "name":"sandpiper",
+    "word":"sandpiper",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115696178",
-    "name":"hoopoe",
+    "word":"hoopoe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115696855",
-    "name":"crane",
+    "word":"crane",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115697354",
-    "name":"papiha",
+    "word":"papiha",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115705859",
-    "name":"ant",
+    "word":"ant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115706152",
-    "name":"hornet",
+    "word":"hornet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115707044",
-    "name":"flea",
+    "word":"flea",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115707279",
-    "name":"catfish",
+    "word":"catfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115739089",
-    "name":"primrose",
+    "word":"primrose",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115739986",
-    "name":"forget-me-not",
+    "word":"forget-me-not",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115740334",
-    "name":"hellebore",
+    "word":"hellebore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115740436",
-    "name":"narcissus",
+    "word":"narcissus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q115740667",
-    "name":"rue",
+    "word":"rue",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q760303",
-    "name":"Ancona",
+    "word":"Ancona",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q760521",
-    "name":"Augsburger",
+    "word":"Augsburger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q772489",
-    "name":"Catalana",
+    "word":"Catalana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q781335",
-    "name":"Crèvecœur",
+    "word":"Crèvecœur",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q781664",
-    "name":"Australorp",
+    "word":"Australorp",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q790706",
-    "name":"Barnevelder",
+    "word":"Barnevelder",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q839103",
-    "name":"Breda",
+    "word":"Breda",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q848819",
-    "name":"Brabanter",
+    "word":"Brabanter",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q848926",
-    "name":"Brahma",
+    "word":"Brahma",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q896464",
-    "name":"Brabançonne",
+    "word":"Brabançonne",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q902376",
-    "name":"Houdan",
+    "word":"Houdan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q902384",
-    "name":"Kraienköppe",
+    "word":"Kraienköppe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q902393",
-    "name":"Minorca",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q908332",
-    "name":"Dominique",
+    "word":"Minorca",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q935349",
-    "name":"Shamo",
+    "word":"Shamo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q939795",
-    "name":"Hamburg",
+    "word":"Hamburg",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q988475",
-    "name":"Eikenburger",
+    "word":"Eikenburger",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1006819",
-    "name":"Phoenix",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1049353",
-    "name":"sussex",
+    "word":"Phoenix",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1049383",
-    "name":"orpington",
+    "word":"orpington",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1081995",
-    "name":"Malay",
+    "word":"Malay",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1085160",
-    "name":"Wyandotte",
+    "word":"Wyandotte",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1087454",
-    "name":"Sebright",
+    "word":"Sebright",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1094864",
-    "name":"Cochin",
+    "word":"Cochin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1108901",
-    "name":"Kinpa",
+    "word":"Kinpa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1121506",
-    "name":"Krüper",
+    "word":"Krüper",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1299284",
-    "name":"oravka",
+    "word":"oravka",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1445652",
-    "name":"Siciliana",
+    "word":"Siciliana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1464806",
-    "name":"welsummer",
+    "word":"welsummer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1498238",
-    "name":"Niederrheiner",
+    "word":"Niederrheiner",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1520225",
-    "name":"Vorwerk",
+    "word":"Vorwerk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1785495",
-    "name":"Sulmtaler",
+    "word":"Sulmtaler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1816929",
-    "name":"Serama",
+    "word":"Serama",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2016420",
-    "name":"Ohiki",
+    "word":"Ohiki",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2130094",
-    "name":"Ramelsloher",
+    "word":"Ramelsloher",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2366293",
-    "name":"Sundheimer",
+    "word":"Sundheimer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2521653",
-    "name":"Italiener",
+    "word":"Italiener",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2734599",
-    "name":"Faverolles",
+    "word":"Faverolles",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2844815",
-    "name":"Ameraucana",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q2914903",
-    "name":"Sultan",
+    "word":"Ameraucana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5577044",
-    "name":"Godzillus",
+    "word":"Godzillus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5603770",
-    "name":"Greenbul",
+    "word":"Greenbul",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5661530",
-    "name":"Ajoya",
+    "word":"Ajoya",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5678886",
-    "name":"banyan",
+    "word":"banyan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5784733",
-    "name":"Megadontosaurus",
+    "word":"Megadontosaurus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5791319",
-    "name":"Tajinaste",
+    "word":"Tajinaste",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5812410",
-    "name":"blueberry",
-    "category":"Animal"
+    "word":"blueberry",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q5877356",
-    "name":"Hognose",
+    "word":"Hognose",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5885047",
-    "name":"quetzal",
+    "word":"quetzal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6072584",
-    "name":"quail",
+    "word":"quail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6142079",
-    "name":"Ajksnnkak",
+    "word":"Ajksnnkak",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6426792",
-    "name":"Kokopu",
+    "word":"Kokopu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6453151",
-    "name":"toad",
+    "word":"toad",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6501235",
-    "name":"shellfish",
+    "word":"shellfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6554785",
-    "name":"Linsang",
+    "word":"Linsang",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6667871",
-    "name":"Logperch",
+    "word":"Logperch",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6667889",
-    "name":"Logrunners",
+    "word":"Logrunners",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6750329",
-    "name":"Manjakani",
+    "word":"Manjakani",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6963715",
-    "name":"comfrey",
+    "word":"comfrey",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6974837",
-    "name":"Kixse",
+    "word":"Kixse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6975220",
-    "name":"glasswort",
+    "word":"glasswort",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7042078",
-    "name":"Rêsî",
+    "word":"Rêsî",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7095472",
-    "name":"ooze",
+    "word":"ooze",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7139852",
-    "name":"parrotlet",
+    "word":"parrotlet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7150699",
-    "name":"hemp",
+    "word":"hemp",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7278641",
-    "name":"rabbitbrush",
+    "word":"rabbitbrush",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7360490",
-    "name":"scallop",
+    "word":"scallop",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7399162",
-    "name":"Sagebrush",
+    "word":"Sagebrush",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7416192",
-    "name":"sandfly",
+    "word":"sandfly",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7502875",
-    "name":"Shoveler",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q7558188",
-    "name":"Solitaire",
+    "word":"Shoveler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7629362",
-    "name":"stygofauna",
+    "word":"stygofauna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7685286",
-    "name":"Taradi",
+    "word":"Taradi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7703292",
-    "name":"terrapin",
+    "word":"terrapin",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7797138",
-    "name":"Thrasher",
+    "word":"Thrasher",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7810693",
-    "name":"Tlacuache",
+    "word":"Tlacuache",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7975733",
-    "name":"waxworms",
+    "word":"waxworms",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8021345",
-    "name":"owl",
+    "word":"owl",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8064278",
-    "name":"mackerel",
+    "word":"mackerel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8071959",
-    "name":"zimb",
+    "word":"zimb",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8350884",
-    "name":"Coquí",
+    "word":"Coquí",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q116198107",
-    "name":"Taghunja",
+    "word":"Taghunja",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q118304331",
-    "name":"sycamore",
+    "word":"sycamore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q118353099",
-    "name":"azalea",
+    "word":"azalea",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q650665",
-    "name":"drone",
+    "word":"drone",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q757833",
-    "name":"stallion",
+    "word":"stallion",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q773939",
-    "name":"Carabao",
+    "word":"Carabao",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1104034",
-    "name":"mare",
+    "word":"mare",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2201314",
-    "name":"hen",
+    "word":"hen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2216236",
-    "name":"rooster",
+    "word":"rooster",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2409684",
-    "name":"ewe",
+    "word":"ewe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2929800",
-    "name":"ram",
+    "word":"ram",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3376081",
-    "name":"Buffalypso",
+    "word":"Buffalypso",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4753101",
-    "name":"Ancona",
+    "word":"Ancona",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4819238",
-    "name":"Auburn",
+    "word":"Auburn",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4900576",
-    "name":"Bhadwari",
+    "word":"Bhadwari",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4985607",
-    "name":"Buff",
+    "word":"Buff",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7037109",
-    "name":"Niliravi",
+    "word":"Niliravi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7538817",
-    "name":"Slate",
+    "word":"Slate",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11748378",
-    "name":"cow",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q12201117",
-    "name":"Bronze",
+    "word":"cow",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17611534",
-    "name":"lioness",
+    "word":"lioness",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21030206",
-    "name":"Bronzeputen",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q503463",
-    "name":"King",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q758867",
-    "name":"Jacobin",
+    "word":"Bronzeputen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1394541",
-    "name":"Gimpel",
+    "word":"Gimpel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1752166",
-    "name":"Frillback",
+    "word":"Frillback",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2460458",
-    "name":"Turbiteen",
+    "word":"Turbiteen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2778444",
-    "name":"Nun",
+    "word":"Nun",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4457950",
-    "name":"Tippler",
+    "word":"Tippler",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18745502",
-    "name":"Sundgau",
+    "word":"Sundgau",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28061260",
-    "name":"Palmera",
+    "word":"Palmera",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q31284824",
-    "name":"Skopelos",
+    "word":"Skopelos",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q58064680",
-    "name":"Bormina",
+    "word":"Bormina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q66124558",
-    "name":"Jämtget",
+    "word":"Jämtget",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q105619973",
-    "name":"Ispir",
+    "word":"Ispir",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29642078",
-    "name":"bitch",
+    "word":"bitch",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29838881",
-    "name":"stag",
+    "word":"stag",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29838920",
-    "name":"doe",
+    "word":"doe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q30716974",
-    "name":"Nagpuri",
+    "word":"Nagpuri",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q107090995",
-    "name":"she-bear",
+    "word":"she-bear",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q113622869",
-    "name":"Ölandgans",
+    "word":"Ölandgans",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8963402",
-    "name":"Gambon",
+    "word":"Gambon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9092653",
-    "name":"heifer",
+    "word":"heifer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9164450",
-    "name":"Rhizobia",
+    "word":"Rhizobia",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9392719",
-    "name":"whelk",
+    "word":"whelk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9458574",
-    "name":"wasp",
+    "word":"wasp",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9581667",
-    "name":"anemones",
+    "word":"anemones",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q9630032",
-    "name":"Aroeira",
+    "word":"Aroeira",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10282840",
-    "name":"rattlesnake",
+    "word":"rattlesnake",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10288193",
-    "name":"Gameleira",
+    "word":"Gameleira",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10321095",
-    "name":"otter",
+    "word":"otter",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10330033",
-    "name":"Canjica",
+    "word":"Canjica",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10349320",
-    "name":"piaba",
+    "word":"piaba",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10351680",
-    "name":"porco",
+    "word":"porco",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10356939",
-    "name":"Radici",
+    "word":"Radici",
     "category":"Plant"
   },
   {
     "wikidata_id":"Q10356939",
-    "name":"Radici",
+    "word":"Radici",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10375157",
-    "name":"Surubi",
+    "word":"Surubi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10475360",
-    "name":"Dogwood",
-    "category":"Animal"
+    "word":"Dogwood",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q10544459",
-    "name":"Kattost",
+    "word":"Kattost",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10605441",
-    "name":"daisy",
-    "category":"Animal"
+    "word":"daisy",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q10693610",
-    "name":"Tetra",
+    "word":"Tetra",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10771704",
-    "name":"Pucawk",
+    "word":"Pucawk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10778359",
-    "name":"Sćina",
+    "word":"Sćina",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10952397",
-    "name":"vole",
+    "word":"vole",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10965236",
-    "name":"jerboa",
+    "word":"jerboa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10968813",
-    "name":"jay",
+    "word":"jay",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q10980893",
-    "name":"newt",
+    "word":"newt",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11065036",
-    "name":"Bedla",
+    "word":"Bedla",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11158147",
-    "name":"polypore",
+    "word":"polypore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11185669",
-    "name":"millipede",
+    "word":"millipede",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11261547",
-    "name":"Kombu",
+    "word":"Kombu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11268639",
-    "name":"zazamushi",
+    "word":"zazamushi",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11302305",
-    "name":"conifer",
+    "word":"conifer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11362681",
-    "name":"heron",
+    "word":"heron",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11364328",
-    "name":"bittern",
+    "word":"bittern",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11387402",
-    "name":"teal",
+    "word":"teal",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11681156",
-    "name":"Dogo",
+    "word":"Dogo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11688697",
-    "name":"sole",
+    "word":"sole",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11709836",
-    "name":"seahorse",
+    "word":"seahorse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11774312",
-    "name":"woodpecker",
+    "word":"woodpecker",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5043860",
-    "name":"Carneau",
+    "word":"Carneau",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5054333",
-    "name":"Cauchois",
+    "word":"Cauchois",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5194188",
-    "name":"Cumulet",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5212013",
-    "name":"Damascene",
+    "word":"Cumulet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5295647",
-    "name":"Donek",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5305470",
-    "name":"Dragoon",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5709298",
-    "name":"Helmet",
+    "word":"Donek",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6473334",
-    "name":"Lahore",
+    "word":"Lahore",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q6888461",
-    "name":"Modena",
+    "word":"Modena",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7429915",
-    "name":"Scandaroon",
+    "word":"Scandaroon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7602090",
-    "name":"Starling",
+    "word":"Starling",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7621710",
-    "name":"Strasser",
+    "word":"Strasser",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7780371",
-    "name":"Turbit",
+    "word":"Turbit",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7780553",
-    "name":"Maltese",
+    "word":"Maltese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8099779",
-    "name":"Mariolinha",
+    "word":"Mariolinha",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q8100012",
-    "name":"Mariola",
+    "word":"Mariola",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11946202",
-    "name":"butterflies",
+    "word":"butterflies",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12058790",
-    "name":"grouse",
+    "word":"grouse",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12212063",
-    "name":"hookworm",
+    "word":"hookworm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12252891",
-    "name":"Aholatz",
+    "word":"Aholatz",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12294232",
-    "name":"civet",
+    "word":"civet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12350404",
-    "name":"Stint",
+    "word":"Stint",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12439809",
-    "name":"Fonio",
+    "word":"Fonio",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12641556",
-    "name":"Saamen",
+    "word":"Saamen",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q12824002",
-    "name":"Jinchak",
+    "word":"Jinchak",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13042834",
-    "name":"mussel",
+    "word":"mussel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13194939",
-    "name":"cod",
+    "word":"cod",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13219075",
-    "name":"octopus",
+    "word":"octopus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13380731",
-    "name":"Mahseer",
+    "word":"Mahseer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13435107",
-    "name":"stork",
+    "word":"stork",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13452705",
-    "name":"anoa",
+    "word":"anoa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14169150",
-    "name":"chamomile",
+    "word":"chamomile",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14169641",
-    "name":"cypress",
+    "word":"cypress",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14328596",
-    "name":"cabbage",
+    "word":"cabbage",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14517578",
-    "name":"Pacu",
+    "word":"Pacu",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14606996",
-    "name":"Tigerfish",
+    "word":"Tigerfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14714085",
-    "name":"redcurrant",
+    "word":"redcurrant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q15102622",
-    "name":"Chrysantheme",
+    "word":"Chrysantheme",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q15115206",
-    "name":"Bearberry",
-    "category":"Animal"
+    "word":"Bearberry",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q15548309",
-    "name":"parrot",
+    "word":"parrot",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q15648117",
-    "name":"Laughingthrush",
+    "word":"Laughingthrush",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q15727774",
-    "name":"Toadfish",
+    "word":"Toadfish",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16033394",
-    "name":"crab",
+    "word":"crab",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16034859",
-    "name":"Serinus",
+    "word":"Serinus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16104352",
-    "name":"Jonquille",
+    "word":"Jonquille",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16104367",
-    "name":"python",
+    "word":"python",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16251302",
-    "name":"Bullfinch",
+    "word":"Bullfinch",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16529344",
-    "name":"goose",
+    "word":"goose",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16546828",
-    "name":"gecko",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q206981",
-    "name":"Tsivilsk",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q262867",
-    "name":"Hampshire",
+    "word":"gecko",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11914719",
-    "name":"Borino",
+    "word":"Borino",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13383336",
-    "name":"Runt",
+    "word":"Runt",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13476184",
-    "name":"Florentine",
+    "word":"Florentine",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q13476318",
-    "name":"Hungarian",
+    "word":"Hungarian",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q14291338",
-    "name":"Fantail",
+    "word":"Fantail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16896571",
-    "name":"Barb",
+    "word":"Barb",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16897978",
-    "name":"Gier",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q16910358",
-    "name":"Lebanon",
+    "word":"Gier",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16938197",
-    "name":"Eichbühl",
+    "word":"Eichbühl",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16667272",
-    "name":"krill",
+    "word":"krill",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16847580",
-    "name":"Brownbul",
+    "word":"Brownbul",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16861000",
-    "name":"friggitello",
+    "word":"friggitello",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16957341",
-    "name":"Leaflove",
+    "word":"Leaflove",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16974943",
-    "name":"gentiana",
+    "word":"gentiana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16982809",
-    "name":"Hederellid",
+    "word":"Hederellid",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q16986592",
-    "name":"Noddy",
+    "word":"Noddy",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17053748",
-    "name":"Chickadee",
+    "word":"Chickadee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17067271",
-    "name":"Whiting",
+    "word":"Whiting",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17068232",
-    "name":"Malabathrum",
+    "word":"Malabathrum",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17076044",
-    "name":"Limpet",
+    "word":"Limpet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17094232",
-    "name":"Thistletail",
+    "word":"Thistletail",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17116033",
-    "name":"Towhee",
+    "word":"Towhee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17128757",
-    "name":"heather",
+    "word":"heather",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17145570",
-    "name":"Koolakamba",
+    "word":"Koolakamba",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17193611",
-    "name":"hornworm",
+    "word":"hornworm",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17413620",
-    "name":"Chaguar",
+    "word":"Chaguar",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17767599",
-    "name":"bream",
+    "word":"bream",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q17988446",
-    "name":"Linnet",
+    "word":"Linnet",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18086809",
-    "name":"Birdwing",
+    "word":"Birdwing",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18227883",
-    "name":"Spermophilus",
+    "word":"Spermophilus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18340387",
-    "name":"Orthotomus",
+    "word":"Orthotomus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q18360378",
-    "name":"cardamom",
-    "category":"Animal"
+    "word":"cardamom",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q18398431",
-    "name":"grasshopper",
+    "word":"grasshopper",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19607539",
-    "name":"Anchovy",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q820953",
-    "name":"Berkshire",
+    "word":"Anchovy",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q904165",
-    "name":"mangalitsa",
+    "word":"mangalitsa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q906724",
-    "name":"Breitovo",
+    "word":"Breitovo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q956817",
-    "name":"Piétrain",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1205207",
-    "name":"Duroc",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1368810",
-    "name":"Essex",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1523606",
-    "name":"Kakhetian",
+    "word":"Piétrain",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1546243",
-    "name":"Grice",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q1738477",
-    "name":"Kemerovo",
+    "word":"Grice",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1866557",
-    "name":"Livny",
+    "word":"Livny",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1918251",
-    "name":"Meishan",
+    "word":"Meishan",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1952036",
-    "name":"Mukota",
+    "word":"Mukota",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q1956753",
-    "name":"Myrhorod",
+    "word":"Myrhorod",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2282432",
-    "name":"Semirechye",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q2501415",
-    "name":"Urzhum",
+    "word":"Semirechye",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q2900949",
-    "name":"Kunekune",
+    "word":"Kunekune",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3113876",
-    "name":"Tamworth",
+    "word":"Tamworth",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3416002",
-    "name":"Normande",
+    "word":"Normande",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3650021",
-    "name":"Apulo-Calabrese",
+    "word":"Apulo-Calabrese",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3661723",
-    "name":"Casertana",
+    "word":"Casertana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q4875221",
-    "name":"Bazna",
+    "word":"Bazna",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5193830",
-    "name":"Cumberland",
+    "word":"Cumberland",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q7813787",
-    "name":"Tokyo-X",
+    "word":"Tokyo-X",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11076949",
-    "name":"Lacombe",
+    "word":"Lacombe",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19760389",
-    "name":"Tit-tyrant",
+    "word":"Tit-tyrant",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19829485",
-    "name":"marmoset",
+    "word":"marmoset",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q19832477",
-    "name":"nightingale",
+    "word":"nightingale",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20388036",
-    "name":"aconite",
+    "word":"aconite",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20659552",
-    "name":"Cercopiteco",
+    "word":"Cercopiteco",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20660030",
-    "name":"Gibbon",
+    "word":"Gibbon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20660322",
-    "name":"Cane",
+    "word":"Cane",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20721333",
-    "name":"Nanfengmiju",
+    "word":"Nanfengmiju",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q20726748",
-    "name":"Catmint",
-    "category":"Animal"
+    "word":"Catmint",
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q20966072",
-    "name":"ʻAkepa",
+    "word":"ʻAkepa",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21157256",
-    "name":"cockatiel",
+    "word":"cockatiel",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21363706",
-    "name":"Pan-Pleurodira",
+    "word":"Pan-Pleurodira",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441830",
-    "name":"Plocoglottis-alliance",
+    "word":"Plocoglottis-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441831",
-    "name":"Calanthe-alliance",
+    "word":"Calanthe-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441835",
-    "name":"Leptotes-alliance",
+    "word":"Leptotes-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441836",
-    "name":"Neocogniauxia-alliance",
+    "word":"Neocogniauxia-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441837",
-    "name":"Eria-alliance",
+    "word":"Eria-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441838",
-    "name":"Ceratostylis-alliance",
+    "word":"Ceratostylis-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441839",
-    "name":"Cyrtopodium-alliance",
+    "word":"Cyrtopodium-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441841",
-    "name":"Oncidium-alliance",
+    "word":"Oncidium-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441843",
-    "name":"Comparettia-alliance",
+    "word":"Comparettia-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441846",
-    "name":"Trichoglottis-alliance",
+    "word":"Trichoglottis-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441848",
-    "name":"Warrea-alliance",
+    "word":"Warrea-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21441849",
-    "name":"Zygopetalum-alliance",
+    "word":"Zygopetalum-alliance",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q21447679",
-    "name":"Mitrata",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q21523646",
-    "name":"Nacional",
+    "word":"Mitrata",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q22662080",
-    "name":"falcon",
+    "word":"falcon",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q23925140",
-    "name":"Bramble",
+    "word":"Bramble",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q24887912",
-    "name":"clematis",
+    "word":"clematis",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q25819153",
-    "name":"X-cells",
+    "word":"X-cells",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q26037433",
-    "name":"Musaraigne",
+    "word":"Musaraigne",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q26704619",
-    "name":"Renaisien",
+    "word":"Renaisien",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3472186",
-    "name":"Sanganer",
+    "word":"Sanganer",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3515610",
-    "name":"Tarasconnaise",
+    "word":"Tarasconnaise",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q3532886",
-    "name":"Touli",
-    "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q5151386",
-    "name":"Comeback",
+    "word":"Touli",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5151995",
-    "name":"Comisana",
+    "word":"Comisana",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q5167398",
-    "name":"Coolalee",
+    "word":"Coolalee",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q106231503",
-    "name":"Podveleski",
+    "word":"Podveleski",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q109806677",
-    "name":"Prelux",
+    "word":"Prelux",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11151180",
-    "name":"Hereford",
+    "word":"Hereford",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q11283096",
-    "name":"agū",
+    "word":"agū",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q27927410",
-    "name":"auk",
+    "word":"auk",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q27988720",
-    "name":"Cacique",
+    "word":"Cacique",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q27989449",
-    "name":"Mamo",
+    "word":"Mamo",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28122708",
-    "name":"Calidrid",
+    "word":"Calidrid",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28185236",
-    "name":"Tirante",
+    "word":"Tirante",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28406866",
-    "name":"tibovirus",
+    "word":"tibovirus",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q28432780",
-    "name":"Mirbelioids",
+    "word":"Mirbelioids",
     "category":"Animal"
   },
   {
     "wikidata_id":"Q29001815",
-    "name":"gazelle",
+    "word":"gazelle",
     "category":"Animal"
   }
 ]
