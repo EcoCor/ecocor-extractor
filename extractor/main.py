@@ -8,9 +8,9 @@ saved.
 
 Input Format: {"segments": [{"segment_id":"xyz", "text":"asd ..."}, ...], "language":"de",
 "entity_list":{"url":"http://..."}}
-EntityList Format: {"entity_list": [{"name":abc, "wikidata_ids":"Q12345","category":"plant"},{...}],
+EntityList Format: {"entity_list": [{"name":abc, "wikidata_id":"Q12345","category":"plant"},{...}],
 "metadata":{"description":"abcd"}]
-Output Format: [{"name":"xyz", "wikidata_ids":["Q12345"],"category":"plant",
+Output Format: [{"name":"xyz", "wikidata_id":["Q12345"],"category":"plant",
 "overall_frequency":1234, "segment_frequencies":{segment_id:1234,...}}] 
 -> only of names that appear at least once in the text
 
@@ -44,9 +44,9 @@ class Segment(BaseModel):
 
 class NameInfo(BaseModel):
     name: str
-    wikidata_ids: str
+    wikidata_id: str
     category: str
-
+    additional_wikidata_ids: list[str] = []
 
 class NameMetadata(BaseModel):
     name: str
