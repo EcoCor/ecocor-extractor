@@ -29,7 +29,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 app = FastAPI()
-
+NOUN_POS = "NOUN"
 DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/german/animal_plant-de.json" 
 
 class Language(str, Enum):
@@ -84,10 +84,10 @@ class UrlDescriptor(BaseModel):
 
 class SegmentEntityListUrl(BaseModel):
     segments: list[Segment]
+    language: Language
     entity_list: UrlDescriptor = UrlDescriptor(
         url=DEFAULT_WORD_LIST_URL
     )
-    language: Language
 
 
 @app.get("/")
@@ -97,6 +97,7 @@ def root():
 
 # TODO: handle exception nicer?
 def read_entity_list(url: str) -> NameInfoMeta:
+    print(url)
     response = requests.get(url)
     response.raise_for_status()
     name_info_meta = NameInfoMeta(**response.json())
@@ -106,6 +107,7 @@ def read_entity_list(url: str) -> NameInfoMeta:
 @app.post("/extractor")
 def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequencyMeta:
     setup_analysis_components(segments_entity_list.language)
+    print(DEFAULT_WORD_LIST_URL)
     name_info_meta = read_entity_list(segments_entity_list.entity_list.url)
     name_to_name_info = {}
 
@@ -125,7 +127,7 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
             disable=["parser", "ner"],
         )
     ):
-        lemmatized_text = [token.lemma_ for token in annotated_segment]
+        lemmatized_text = [token.lemma_ for token in annotated_segment if token.pos_ == NOUN_POS]
 
         # count and intersect
         vocabulary = set(lemmatized_text)
