@@ -2985,11 +2985,6 @@
     "category":"Plant"
   },
   {
-    "wikidata_id":"Q10884",
-    "word":"tree",
-    "category":"Animal"
-  },
-  {
     "wikidata_id":"Q13676",
     "word":"Dermaptera",
     "category":"Animal"
@@ -3018,11 +3013,6 @@
     "wikidata_id":"Q34384",
     "word":"swan",
     "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q36940",
-    "word":"sugarcane",
-    "category":"Plant"
   },
   {
     "wikidata_id":"Q36940",
@@ -3067,7 +3057,7 @@
   {
     "wikidata_id":"Q102231",
     "word":"rose",
-    "category":"Animal"
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q103459",
@@ -3107,7 +3097,7 @@
   {
     "wikidata_id":"Q184755",
     "word":"phytoplankton",
-    "category":"Animal"
+    "category":"Plant"
   },
   {
     "wikidata_id":"Q185215",
@@ -3123,11 +3113,6 @@
     "wikidata_id":"Q201251",
     "word":"peafowl",
     "category":"Animal"
-  },
-  {
-    "wikidata_id":"Q201565",
-    "word":"nori",
-    "category":"Plant"
   },
   {
     "wikidata_id":"Q201565",
