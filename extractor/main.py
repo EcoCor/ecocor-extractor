@@ -30,7 +30,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/organisms_known_by_common_name.json" 
+DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/german/animal_plant-de.json" 
 
 class Language(str, Enum):
     EN = "en"
