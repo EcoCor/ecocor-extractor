@@ -36,11 +36,25 @@ class Language(str, Enum):
     EN = "en"
     DE = "de"
 
+def initialize_de():
+    global nlp
+    nlp = spacy.load("de_core_news_sm")
+
+def initialize_en():
+    global nlp
+    nlp = spacy.load("en_core_web_sm")
+    global DEFAULT_WORD_LIST_URL
+    DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/english/animal_plant-en.json" 
+
+def setup_analysis_components(language: Language):
+    if language == Language.DE:
+        initialize_de()
+    elif language == Language.EN:
+        initialize_en()
 
 class Segment(BaseModel):
     text: str
     segment_id: str
-
 
 class NameInfo(BaseModel):
     name: str
@@ -89,25 +103,9 @@ def read_entity_list(url: str) -> NameInfoMeta:
     return name_info_meta
 
 
-def initialize_de():
-    global nlp
-    nlp = spacy.load("de_core_news_sm")
-
-
-def initialize_en():
-    global nlp
-    nlp = spacy.load("en_core_web_sm")
-
-
-def setup_analysis_components(language: Language):
-    if language == Language.DE:
-        initialize_de()
-    elif language == Language.EN:
-        initialize_en()
-
-
 @app.post("/extractor")
 def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequencyMeta:
+    setup_analysis_components(segments_entity_list.language)
     name_info_meta = read_entity_list(segments_entity_list.entity_list.url)
     name_to_name_info = {}
 
@@ -116,7 +114,6 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
             name_to_name_info[entry.name] = []
         name_to_name_info[entry.name].append(entry.dict())
 
-    setup_analysis_components(segments_entity_list.language)
     unique_names = set([entry.name for entry in name_info_meta.entity_list])
 
     # annotate
