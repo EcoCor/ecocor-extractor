@@ -108,7 +108,6 @@ def root():
 
 # TODO: handle exception nicer?
 def read_entity_list(url: str) -> NameInfoMeta:
-    print(url)
     response = requests.get(url)
     response.raise_for_status()
     name_info_meta = NameInfoMeta(**response.json())
@@ -141,7 +140,6 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
         lemmatized_text = [
             token.lemma_ for token in annotated_segment if token.pos_ == NOUN_POS
         ]
-
         # count and intersect
         vocabulary = set(lemmatized_text)
         counted = Counter(lemmatized_text)
