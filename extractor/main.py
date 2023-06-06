@@ -18,43 +18,44 @@ This scripts requires `spacy` and `FastAPI` to be installed. Additionally the sp
 for English and German must be downloaded: `de_core_news_sm`, `en_core_web_sm` """
 
 import sys
-from pydantic.networks import HttpUrl
-from datetime import date
-import requests
 from collections import Counter
+from datetime import date
 from enum import Enum
+from functools import cache
+from typing import Optional
 
+import requests
 import spacy
 from fastapi import FastAPI
 from pydantic import BaseModel
+from pydantic.networks import HttpUrl
 
 app = FastAPI()
 NOUN_POS = "NOUN"
-DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/german/animal_plant-de.json" 
+
 
 class Language(str, Enum):
     EN = "en"
     DE = "de"
 
-def initialize_de():
-    global nlp
-    nlp = spacy.load("de_core_news_sm")
+    @cache
+    def get_spacy_model(self) -> spacy.Language:
+        return {
+            Language.DE: spacy.load("de_core_news_sm"),
+            Language.EN: spacy.load("en_core_web_sm"),
+        }[self]
 
-def initialize_en():
-    global nlp
-    nlp = spacy.load("en_core_web_sm")
-    global DEFAULT_WORD_LIST_URL
-    DEFAULT_WORD_LIST_URL = "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/english/animal_plant-en.json" 
+    def get_entity_list(self) -> str:
+        return {
+            Language.DE: "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/german/animal_plant-de.json",
+            Language.EN: "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/english/animal_plant-en.json",
+        }[self]
 
-def setup_analysis_components(language: Language):
-    if language == Language.DE:
-        initialize_de()
-    elif language == Language.EN:
-        initialize_en()
 
 class Segment(BaseModel):
     text: str
     segment_id: str
+
 
 class NameInfo(BaseModel):
     name: str
@@ -62,32 +63,42 @@ class NameInfo(BaseModel):
     category: str
     additional_wikidata_ids: list[str] = []
 
+
 class NameMetadata(BaseModel):
     name: str
     description: str
-    date: date  
-    
+    date: date
+
+
 class NameInfoFrequency(NameInfo):
     segment_frequencies: dict[str, int]
     overall_frequency: int
+
 
 class NameInfoMeta(BaseModel):
     metadata: NameMetadata
     entity_list: list[NameInfo]
 
+
 class NameInfoFrequencyMeta(BaseModel):
     metadata: NameMetadata
     entity_list: list[NameInfoFrequency]
 
+
 class UrlDescriptor(BaseModel):
     url: HttpUrl
+
 
 class SegmentEntityListUrl(BaseModel):
     segments: list[Segment]
     language: Language
-    entity_list: UrlDescriptor = UrlDescriptor(
-        url=DEFAULT_WORD_LIST_URL
-    )
+    entity_list: Optional[UrlDescriptor]
+
+    def get_entity_list(self) -> UrlDescriptor:
+        if self.entity_list:
+            return self.entity_list
+        else:
+            return UrlDescriptor(url=self.language.get_entity_list())
 
 
 @app.get("/")
@@ -106,9 +117,9 @@ def read_entity_list(url: str) -> NameInfoMeta:
 
 @app.post("/extractor")
 def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequencyMeta:
-    setup_analysis_components(segments_entity_list.language)
-    print(DEFAULT_WORD_LIST_URL)
-    name_info_meta = read_entity_list(segments_entity_list.entity_list.url)
+    nlp = segments_entity_list.language.get_spacy_model()
+
+    name_info_meta = read_entity_list(segments_entity_list.get_entity_list().url)
     name_to_name_info = {}
 
     for entry in name_info_meta.entity_list:
@@ -127,7 +138,9 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
             disable=["parser", "ner"],
         )
     ):
-        lemmatized_text = [token.lemma_ for token in annotated_segment if token.pos_ == NOUN_POS]
+        lemmatized_text = [
+            token.lemma_ for token in annotated_segment if token.pos_ == NOUN_POS
+        ]
 
         # count and intersect
         vocabulary = set(lemmatized_text)
@@ -154,7 +167,9 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
                     **name_info,
                 )
             )
-    result = NameInfoFrequencyMeta(entity_list=name_info_frequency, metadata=name_info_meta.metadata)
+    result = NameInfoFrequencyMeta(
+        entity_list=name_info_frequency, metadata=name_info_meta.metadata
+    )
 
     return result
 
