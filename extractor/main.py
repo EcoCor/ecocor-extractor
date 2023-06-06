@@ -120,7 +120,7 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
     nlp = segments_entity_list.language.get_spacy_model()
 
     name_info_meta = read_entity_list(segments_entity_list.get_entity_list().url)
-    name_to_name_info = {}
+    name_to_name_info: dict[str, list[dict[str, str]]] = {}
 
     for entry in name_info_meta.entity_list:
         if entry.name not in name_to_name_info:
@@ -130,7 +130,7 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
     unique_names = set([entry.name for entry in name_info_meta.entity_list])
 
     # annotate
-    name_to_segment_frq = {}
+    name_to_segment_frq: dict[str, dict[str, int]] = {}
 
     for i, annotated_segment in enumerate(
         nlp.pipe(
