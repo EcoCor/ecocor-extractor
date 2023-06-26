@@ -47,8 +47,8 @@ class Language(str, Enum):
 
     def get_entity_list(self) -> str:
         return {
-            Language.DE: "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/german/animal_plant-de.json",
-            Language.EN: "https://raw.githubusercontent.com/dh-network/ecocor-extractor/main/word_list/english/animal_plant-en.json",
+            Language.DE: "https://raw.githubusercontent.com/EcoCor/ecocor-extractor/main/word_list/german/animal_plant-de.json",
+            Language.EN: "https://raw.githubusercontent.com/EcoCor/ecocor-extractor/main/word_list/english/animal_plant-en.json",
         }[self]
 
 
