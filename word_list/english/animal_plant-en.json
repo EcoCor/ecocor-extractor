@@ -5545,7 +5545,7 @@
         },
         {
             "name": "chanterelle",
-            "category": "Animal",
+            "category": "Fungus",
             "wikidata_id": "Q3942018"
         },
         {
@@ -5585,7 +5585,7 @@
         },
         {
             "name": "arianis",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q4790232"
         },
         {
@@ -5595,7 +5595,7 @@
         },
         {
             "name": "hcov-emc",
-            "category": "Animal",
+            "category": "Virus",
             "wikidata_id": "Q4982297"
         },
         {
@@ -5645,7 +5645,7 @@
         },
         {
             "name": "foliicolous",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q5464375"
         },
         {
