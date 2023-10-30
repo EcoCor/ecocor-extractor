@@ -1857,11 +1857,6 @@
             "wikidata_id": "Q4712946"
         },
         {
-            "name": "altay",
-            "category": "Animal",
-            "wikidata_id": "Q4736204"
-        },
-        {
             "name": "ancon",
             "category": "Animal",
             "wikidata_id": "Q4753095"
@@ -1915,11 +1910,6 @@
             "name": "bizet",
             "category": "Animal",
             "wikidata_id": "Q4919400"
-        },
-        {
-            "name": "bond",
-            "category": "Animal",
-            "wikidata_id": "Q4941268"
         },
         {
             "name": "laticauda",
@@ -2037,11 +2027,6 @@
             "wikidata_id": "Q4007559"
         },
         {
-            "name": "pekin",
-            "category": "Animal",
-            "wikidata_id": "Q4236551"
-        },
-        {
             "name": "frizzle",
             "category": "Animal",
             "wikidata_id": "Q4249021",
@@ -2068,11 +2053,6 @@
             "name": "campine",
             "category": "Animal",
             "wikidata_id": "Q5028379"
-        },
-        {
-            "name": "delaware",
-            "category": "Animal",
-            "wikidata_id": "Q5253215"
         },
         {
             "name": "chumbivilcas",
@@ -2193,11 +2173,6 @@
             "wikidata_id": "Q56306340"
         },
         {
-            "name": "cherokee",
-            "category": "Animal",
-            "wikidata_id": "Q56307485"
-        },
-        {
             "name": "chumysh",
             "category": "Animal",
             "wikidata_id": "Q56307541"
@@ -2208,19 +2183,9 @@
             "wikidata_id": "Q655850"
         },
         {
-            "name": "satin",
-            "category": "Animal",
-            "wikidata_id": "Q655886"
-        },
-        {
             "name": "teddyzwerg",
             "category": "Animal",
             "wikidata_id": "Q1255111"
-        },
-        {
-            "name": "lux",
-            "category": "Animal",
-            "wikidata_id": "Q1344121"
         },
         {
             "name": "jamora",
@@ -2398,11 +2363,6 @@
             "wikidata_id": "Q5309803"
         },
         {
-            "name": "easycare",
-            "category": "Animal",
-            "wikidata_id": "Q5331195"
-        },
-        {
             "name": "elliotdale",
             "category": "Animal",
             "wikidata_id": "Q5365753"
@@ -2573,11 +2533,6 @@
             "wikidata_id": "Q11026102"
         },
         {
-            "name": "panama",
-            "category": "Animal",
-            "wikidata_id": "Q11059147"
-        },
-        {
             "name": "cartera",
             "category": "Animal",
             "wikidata_id": "Q11939662"
@@ -2595,11 +2550,6 @@
         {
             "name": "beefalo",
             "category": "Animal",
-            "wikidata_id": "Q176656"
-        },
-        {
-            "name": "beefalo",
-            "category": "Unknown",
             "wikidata_id": "Q176656"
         },
         {
@@ -2621,11 +2571,6 @@
             "name": "bajau",
             "category": "Animal",
             "wikidata_id": "Q56314973"
-        },
-        {
-            "name": "maine",
-            "category": "Animal",
-            "wikidata_id": "Q56863148"
         },
         {
             "name": "goonhilly",
