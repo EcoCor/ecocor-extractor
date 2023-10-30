@@ -3117,11 +3117,6 @@
             "wikidata_id": "Q2366573"
         },
         {
-            "name": "brangus",
-            "category": "Unknown",
-            "wikidata_id": "Q2366573"
-        },
-        {
             "name": "racka",
             "category": "Animal",
             "wikidata_id": "Q139939"
@@ -3130,16 +3125,6 @@
             "name": "heidschnucke",
             "category": "Animal",
             "wikidata_id": "Q314363"
-        },
-        {
-            "name": "karakul",
-            "category": "Animal",
-            "wikidata_id": "Q328230"
-        },
-        {
-            "name": "jacob",
-            "category": "Animal",
-            "wikidata_id": "Q486745"
         },
         {
             "name": "texel",
@@ -3160,11 +3145,6 @@
             "name": "sidaoun",
             "category": "Animal",
             "wikidata_id": "Q772223"
-        },
-        {
-            "name": "suffolk",
-            "category": "Animal",
-            "wikidata_id": "Q787795"
         },
         {
             "name": "tsigai",
