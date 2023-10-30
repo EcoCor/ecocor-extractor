@@ -4726,13 +4726,8 @@
             "wikidata_id": "Q2885646"
         },
         {
-            "name": "mistletoe",
-            "category": "Animal",
-            "wikidata_id": "Q2885646"
-        },
-        {
             "name": "bouillon-blanc",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q2921621"
         },
         {
@@ -4742,7 +4737,7 @@
         },
         {
             "name": "calament",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q2933526"
         },
         {
@@ -4802,7 +4797,7 @@
         },
         {
             "name": "dandelion",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q3091399"
         },
         {
@@ -4842,22 +4837,22 @@
         },
         {
             "name": "morel",
-            "category": "Animal",
+            "category": "Fungus",
             "wikidata_id": "Q3226851"
         },
         {
             "name": "toadflax",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q3241272"
         },
         {
             "name": "kowhai",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q3241720"
         },
         {
             "name": "vine",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q3248828"
         },
         {
@@ -4935,7 +4930,7 @@
         },
         {
             "name": "pompia",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q3396090"
         },
         {
