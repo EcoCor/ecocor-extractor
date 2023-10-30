@@ -6546,7 +6546,7 @@
         },
         {
             "name": "s\u0107ina",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q10778359"
         },
         {
@@ -6576,7 +6576,7 @@
         },
         {
             "name": "polypore",
-            "category": "Animal",
+            "category": "Fungus",
             "wikidata_id": "Q11158147"
         },
         {
@@ -6586,7 +6586,7 @@
         },
         {
             "name": "kombu",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q11261547"
         },
         {
@@ -6596,7 +6596,7 @@
         },
         {
             "name": "conifer",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q11302305"
         },
         {
@@ -6716,7 +6716,7 @@
         },
         {
             "name": "fonio",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q12439809"
         },
         {
@@ -6726,7 +6726,7 @@
         },
         {
             "name": "jinchak",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q12824002"
         },
         {
@@ -6751,17 +6751,17 @@
         },
         {
             "name": "chamomile",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q14169150"
         },
         {
             "name": "cypress",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q14169641"
         },
         {
             "name": "cabbage",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q14328596"
         },
         {
@@ -6776,12 +6776,12 @@
         },
         {
             "name": "redcurrant",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q14714085"
         },
         {
             "name": "chrysantheme",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q15102622"
         },
         {
