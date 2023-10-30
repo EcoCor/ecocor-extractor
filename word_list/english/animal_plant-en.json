@@ -2786,14 +2786,6 @@
             "wikidata_id": "Q16995258"
         },
         {
-            "name": "burmese",
-            "category": "Animal",
-            "wikidata_id": "Q17082228",
-            "additional_wikidata_ids": [
-                "Q42573"
-            ]
-        },
-        {
             "name": "pyncheon",
             "category": "Animal",
             "wikidata_id": "Q17116053"
@@ -2832,11 +2824,6 @@
             "name": "zemmouri",
             "category": "Animal",
             "wikidata_id": "Q56303291"
-        },
-        {
-            "name": "hereford",
-            "category": "Unknown",
-            "wikidata_id": "Q737173"
         },
         {
             "name": "hereford",
@@ -2944,19 +2931,9 @@
             "wikidata_id": "Q12286528"
         },
         {
-            "name": "svishtov",
-            "category": "Animal",
-            "wikidata_id": "Q12293382"
-        },
-        {
             "name": "teteven",
             "category": "Animal",
             "wikidata_id": "Q12296296"
-        },
-        {
-            "name": "atyrau",
-            "category": "Animal",
-            "wikidata_id": "Q12530687"
         },
         {
             "name": "akzhaik",
@@ -2972,11 +2949,6 @@
             "name": "gissar",
             "category": "Animal",
             "wikidata_id": "Q12572479"
-        },
-        {
-            "name": "galway",
-            "category": "Animal",
-            "wikidata_id": "Q12858325"
         },
         {
             "name": "pramenka",
@@ -3070,11 +3042,6 @@
             "name": "mulefoot",
             "category": "Animal",
             "wikidata_id": "Q13651093"
-        },
-        {
-            "name": "welsh",
-            "category": "Animal",
-            "wikidata_id": "Q16993512"
         },
         {
             "name": "sarda",
