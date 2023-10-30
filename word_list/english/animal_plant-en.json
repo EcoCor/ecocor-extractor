@@ -1200,7 +1200,12 @@
             "wikidata_id": "Q3030606"
         },
         {
-            "name": "nordlandshest/lyngshest",
+            "name": "lyngshest",
+            "category": "Animal",
+            "wikidata_id": "Q3044064"
+        },
+        {
+            "name": "nordlandshest",
             "category": "Animal",
             "wikidata_id": "Q3044064"
         },
