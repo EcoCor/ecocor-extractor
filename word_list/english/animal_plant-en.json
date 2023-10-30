@@ -6136,7 +6136,7 @@
         },
         {
             "name": "tajinaste",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q5791319"
         },
         {
@@ -6161,7 +6161,7 @@
         },
         {
             "name": "ajksnnkak",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q6142079"
         },
         {
@@ -6190,18 +6190,13 @@
             "wikidata_id": "Q6667889"
         },
         {
-            "name": "manjakani",
-            "category": "Animal",
-            "wikidata_id": "Q6750329"
-        },
-        {
             "name": "comfrey",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q6963715"
         },
         {
             "name": "kixse",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q6974837"
         },
         {
@@ -6211,13 +6206,8 @@
         },
         {
             "name": "r\u00eas\u00ee",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q7042078"
-        },
-        {
-            "name": "ooze",
-            "category": "Animal",
-            "wikidata_id": "Q7095472"
         },
         {
             "name": "parrotlet",
@@ -6226,12 +6216,12 @@
         },
         {
             "name": "hemp",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q7150699"
         },
         {
             "name": "rabbitbrush",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q7278641"
         },
         {
@@ -6241,7 +6231,7 @@
         },
         {
             "name": "sagebrush",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q7399162"
         },
         {
@@ -6261,7 +6251,7 @@
         },
         {
             "name": "taradi",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q7685286"
         },
         {
@@ -6306,12 +6296,12 @@
         },
         {
             "name": "sycamore",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q118304331"
         },
         {
             "name": "azalea",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q118353099"
         },
         {
