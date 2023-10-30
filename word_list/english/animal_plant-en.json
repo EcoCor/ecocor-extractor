@@ -3376,7 +3376,7 @@
         },
         {
             "name": "fern",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q80005"
         },
         {
@@ -3769,7 +3769,7 @@
         },
         {
             "name": "bean",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q379813"
         },
         {
@@ -3784,17 +3784,17 @@
         },
         {
             "name": "amoeba",
-            "category": "Animal",
+            "category": "protozoa",
             "wikidata_id": "Q506524"
         },
         {
             "name": "thistle",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q538906"
         },
         {
             "name": "bluebonnet",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q573876"
         },
         {
@@ -3819,7 +3819,7 @@
         },
         {
             "name": "arbovirus",
-            "category": "Animal",
+            "category": "Virus",
             "wikidata_id": "Q630622"
         },
         {
@@ -3919,7 +3919,7 @@
         },
         {
             "name": "aspen",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q1087592"
         },
         {
@@ -3929,7 +3929,7 @@
         },
         {
             "name": "coxsackievirus",
-            "category": "Animal",
+            "category": "Virus",
             "wikidata_id": "Q1138287"
         },
         {
