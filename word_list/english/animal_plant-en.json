@@ -5960,16 +5960,6 @@
             ]
         },
         {
-            "name": "augsburger",
-            "category": "Animal",
-            "wikidata_id": "Q760521"
-        },
-        {
-            "name": "catalana",
-            "category": "Animal",
-            "wikidata_id": "Q772489"
-        },
-        {
             "name": "cr\u00e8vec\u0153ur",
             "category": "Animal",
             "wikidata_id": "Q781335"
@@ -5983,11 +5973,6 @@
             "name": "barnevelder",
             "category": "Animal",
             "wikidata_id": "Q790706"
-        },
-        {
-            "name": "breda",
-            "category": "Animal",
-            "wikidata_id": "Q839103"
         },
         {
             "name": "brabanter",
@@ -6023,11 +6008,6 @@
             "name": "shamo",
             "category": "Animal",
             "wikidata_id": "Q935349"
-        },
-        {
-            "name": "hamburg",
-            "category": "Animal",
-            "wikidata_id": "Q939795"
         },
         {
             "name": "eikenburger",
@@ -6080,11 +6060,6 @@
             "wikidata_id": "Q1299284"
         },
         {
-            "name": "siciliana",
-            "category": "Animal",
-            "wikidata_id": "Q1445652"
-        },
-        {
             "name": "welsummer",
             "category": "Animal",
             "wikidata_id": "Q1464806"
@@ -6123,11 +6098,6 @@
             "name": "sundheimer",
             "category": "Animal",
             "wikidata_id": "Q2366293"
-        },
-        {
-            "name": "italiener",
-            "category": "Animal",
-            "wikidata_id": "Q2521653"
         },
         {
             "name": "faverolles",
