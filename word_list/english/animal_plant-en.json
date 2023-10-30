@@ -4029,12 +4029,12 @@
         },
         {
             "name": "cyanophages",
-            "category": "Animal",
+            "category": "Virus",
             "wikidata_id": "Q29887661"
         },
         {
             "name": "willow",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q29994594"
         },
         {
@@ -4104,7 +4104,7 @@
         },
         {
             "name": "coronavirus",
-            "category": "Animal",
+            "category": "Virus",
             "wikidata_id": "Q57751738"
         },
         {
@@ -4174,7 +4174,7 @@
         },
         {
             "name": "puntarelle",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q1633480"
         },
         {
@@ -4199,12 +4199,12 @@
         },
         {
             "name": "taro",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q1771944"
         },
         {
             "name": "guaco",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q1773547"
         },
         {
@@ -4213,18 +4213,13 @@
             "wikidata_id": "Q1811658"
         },
         {
-            "name": "lapacho",
-            "category": "Animal",
-            "wikidata_id": "Q1828662"
-        },
-        {
             "name": "cama",
             "category": "Animal",
             "wikidata_id": "Q1869705"
         },
         {
             "name": "bolete",
-            "category": "Animal",
+            "category": "Fungus",
             "wikidata_id": "Q1969349"
         },
         {
@@ -4279,12 +4274,12 @@
         },
         {
             "name": "megaherb",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q2529292"
         },
         {
             "name": "g\u00e9n\u00e9pi",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q2533926"
         },
         {
@@ -4304,7 +4299,7 @@
         },
         {
             "name": "vatica",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q2696986"
         },
         {
