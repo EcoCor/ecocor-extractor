@@ -6481,7 +6481,7 @@
         },
         {
             "name": "aroeira",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q9630032"
         },
         {
@@ -6491,7 +6491,7 @@
         },
         {
             "name": "gameleira",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q10288193"
         },
         {
@@ -6501,7 +6501,7 @@
         },
         {
             "name": "canjica",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q10330033"
         },
         {
@@ -6515,16 +6515,6 @@
             "wikidata_id": "Q10351680"
         },
         {
-            "name": "radici",
-            "category": "Plant",
-            "wikidata_id": "Q10356939"
-        },
-        {
-            "name": "radici",
-            "category": "Animal",
-            "wikidata_id": "Q10356939"
-        },
-        {
             "name": "surubi",
             "category": "Animal",
             "wikidata_id": "Q10375157"
@@ -6536,7 +6526,7 @@
         },
         {
             "name": "kattost",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q10544459"
         },
         {
@@ -6551,7 +6541,7 @@
         },
         {
             "name": "pucawk",
-            "category": "Animal",
+            "category": "Plant",
             "wikidata_id": "Q10771704"
         },
         {
