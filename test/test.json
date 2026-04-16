@@ -1,6 +1,6 @@
 {
   "entity_list": {
-    "url": "https://raw.githubusercontent.com/dh-network/ecocor-extractor/combined-word-list/word_list/combined_single_id.json"
+    "url": "https://raw.githubusercontent.com/EcoCor/ecocor-extractor/refs/heads/main/test/word_list.json"
   },
   "segments": [
     { "segment_id": "P0", "text": "Ein Chow-Chow geht nach Hause." },

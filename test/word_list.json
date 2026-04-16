@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "name": "Plant and Animal list (de)",
+    "description": "German name list for plants and animals gathered from GermaNet and Wikidata",
+    "date": "2023-06-01"
+  },
+  "entity_list": [
+    {
+      "name": "Dobermann",
+      "category": "Animal",
+      "additional_wikidata_ids": [],
+      "wikidata_id": "Q38358"
+    },
+    {
+      "name": "Chow-Chow",
+      "category": "Animal",
+      "additional_wikidata_ids": [],
+      "wikidata_id": "Q29013"
+    },
+    {
+      "name": "Dalmatiner",
+      "category": "Animal",
+      "additional_wikidata_ids": [],
+      "wikidata_id": "Q17504"
+    }
+  ]
+}
