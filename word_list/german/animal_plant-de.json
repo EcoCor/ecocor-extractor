@@ -200,14 +200,6 @@
             ]
         },
         {
-            "name": "Admiral",
-            "category": "Animal",
-            "wikidata_id": "Q156454",
-            "additional_wikidata_ids": [
-                "Q156454"
-            ]
-        },
-        {
             "name": "Affe",
             "category": "Animal",
             "wikidata_id": "Q1367"
@@ -388,11 +380,6 @@
             "name": "Antilope",
             "category": "Animal",
             "wikidata_id": "Q25894"
-        },
-        {
-            "name": "Araber",
-            "category": "Animal",
-            "wikidata_id": "Q184138"
         },
         {
             "name": "Attich",
@@ -1148,14 +1135,6 @@
             "wikidata_id": "Q42196",
             "additional_wikidata_ids": [
                 "Q42196"
-            ]
-        },
-        {
-            "name": "Blei",
-            "category": "Animal",
-            "wikidata_id": "Q144534",
-            "additional_wikidata_ids": [
-                "Q144534"
             ]
         },
         {
@@ -3077,14 +3056,6 @@
             "wikidata_id": "Q148924",
             "additional_wikidata_ids": [
                 "Q148924"
-            ]
-        },
-        {
-            "name": "Gaukler",
-            "category": "Animal",
-            "wikidata_id": "Q726387",
-            "additional_wikidata_ids": [
-                "Q726387"
             ]
         },
         {
@@ -5740,14 +5711,6 @@
             "name": "K\u00e4nguru",
             "category": "Animal",
             "wikidata_id": "Q5070208"
-        },
-        {
-            "name": "K\u00f6hler",
-            "category": "Animal",
-            "wikidata_id": "Q5125285",
-            "additional_wikidata_ids": [
-                "Q5125285"
-            ]
         },
         {
             "name": "K\u00f6nigspinguin",
@@ -9118,14 +9081,6 @@
             "wikidata_id": "Q185097",
             "additional_wikidata_ids": [
                 "Q185097"
-            ]
-        },
-        {
-            "name": "Sekret\u00e4r",
-            "category": "Animal",
-            "wikidata_id": "Q168748",
-            "additional_wikidata_ids": [
-                "Q168748"
             ]
         },
         {
@@ -17677,11 +17632,6 @@
             "wikidata_id": "Q653650"
         },
         {
-            "name": "Nase",
-            "category": "Animal",
-            "wikidata_id": "Q654583"
-        },
-        {
             "name": "Sokotraammer",
             "category": "Animal",
             "wikidata_id": "Q656919"
@@ -20812,11 +20762,6 @@
             "wikidata_id": "Q1187084"
         },
         {
-            "name": "Eremit",
-            "category": "Animal",
-            "wikidata_id": "Q1141328"
-        },
-        {
             "name": "Scherenschwanz-K\u00f6nigstyrann",
             "category": "Animal",
             "wikidata_id": "Q1189983"
@@ -21517,11 +21462,6 @@
             "name": "Braunkopftaube",
             "category": "Animal",
             "wikidata_id": "Q2796196"
-        },
-        {
-            "name": "Schaden",
-            "category": "Animal",
-            "wikidata_id": "Q159323"
         },
         {
             "name": "Himalajakauz",
@@ -27291,11 +27231,6 @@
             "wikidata_id": "Q3382384"
         },
         {
-            "name": "Rasse",
-            "category": "Animal",
-            "wikidata_id": "Q734351"
-        },
-        {
             "name": "Orangenschalenwaldrebe",
             "category": "Plant",
             "wikidata_id": "Q3281704"
@@ -28013,11 +27948,6 @@
             "name": "Porphyrfarbener Champignon",
             "category": "Fungus",
             "wikidata_id": "Q10403055"
-        },
-        {
-            "name": "Schaffner",
-            "category": "Plant",
-            "wikidata_id": "Q15041677"
         },
         {
             "name": "Kleinh\u00fctiges Samth\u00e4ubchen",
@@ -29690,11 +29620,6 @@
             "wikidata_id": "Q19622524"
         },
         {
-            "name": "Blonde",
-            "category": "Animal",
-            "wikidata_id": "Q383819"
-        },
-        {
             "name": "Veracruztaube",
             "category": "Animal",
             "wikidata_id": "Q27074683"
@@ -30193,11 +30118,6 @@
             "name": "Hirschsprung",
             "category": "Plant",
             "wikidata_id": "Q159504"
-        },
-        {
-            "name": "Monarch",
-            "category": "Animal",
-            "wikidata_id": "Q212398"
         },
         {
             "name": "Zimtmausdrossling",
@@ -35604,11 +35524,6 @@
             "additional_wikidata_ids": [
                 "Q628239"
             ]
-        },
-        {
-            "name": "Kapuziner",
-            "category": "Animal",
-            "wikidata_id": "Q585189"
         },
         {
             "name": "Ellipsen-Wasserbock",
@@ -47560,11 +47475,6 @@
             "wikidata_id": "Q50407544"
         },
         {
-            "name": "Grenadier",
-            "category": "Animal",
-            "wikidata_id": "Q646366"
-        },
-        {
             "name": "Marmordrossling",
             "category": "Animal",
             "wikidata_id": "Q2226317",
@@ -48312,11 +48222,6 @@
             "name": "Echte Gei\u00dfraute",
             "category": "Plant",
             "wikidata_id": "Q157287"
-        },
-        {
-            "name": "Zwerglein",
-            "category": "Plant",
-            "wikidata_id": "Q162461"
         },
         {
             "name": "Graubauchb\u00fclb\u00fcl",
@@ -52192,11 +52097,6 @@
             "additional_wikidata_ids": [
                 "Q1270356"
             ]
-        },
-        {
-            "name": "Zigeuner",
-            "category": "Fungus",
-            "wikidata_id": "Q669036"
         },
         {
             "name": "Schwarzkielralle",
@@ -57180,11 +57080,6 @@
             "name": "Geschw\u00e4nzte Bencomia",
             "category": "Plant",
             "wikidata_id": "Q1518119"
-        },
-        {
-            "name": "Glasauge",
-            "category": "Animal",
-            "wikidata_id": "Q1529358"
         },
         {
             "name": "Wald-Knaulgras",
@@ -84191,11 +84086,6 @@
             "name": "Kap-Blessmull",
             "category": "Animal",
             "wikidata_id": "Q301528"
-        },
-        {
-            "name": "Greisengesicht",
-            "category": "Animal",
-            "wikidata_id": "Q301611"
         },
         {
             "name": "Afrikanische Samtklettermaus",
