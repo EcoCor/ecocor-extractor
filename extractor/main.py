@@ -92,7 +92,7 @@ class UrlDescriptor(BaseModel):
 class SegmentEntityListUrl(BaseModel):
     segments: list[Segment]
     language: Language
-    entity_list: Optional[UrlDescriptor]
+    entity_list: Optional[UrlDescriptor] = None
 
     def get_entity_list(self) -> UrlDescriptor:
         if self.entity_list:
@@ -124,7 +124,7 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
     for entry in name_info_meta.entity_list:
         if entry.name not in name_to_name_info:
             name_to_name_info[entry.name] = []
-        name_to_name_info[entry.name].append(entry.dict())
+        name_to_name_info[entry.name].append(entry.model_dump())
 
     unique_names = set([entry.name for entry in name_info_meta.entity_list])
 
