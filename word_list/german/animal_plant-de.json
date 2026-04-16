@@ -146591,6 +146591,342 @@
             "name": "Audebert-Inselratte",
             "category": "Animal",
             "wikidata_id": "Q10336386"
+        },
+        {
+            "name": "Hippogryph",
+            "category": "Animal",
+            "wikidata_id": "Q335179",
+            "additional_wikidata_ids": [
+                "Q335179"
+            ]
+        },
+        {
+            "name": "Vogel",
+            "category": "Animal",
+            "wikidata_id": "Q5113",
+            "additional_wikidata_ids": [
+                "Q5113"
+            ]
+        },
+        {
+            "name": "Frosch",
+            "category": "Animal",
+            "wikidata_id": "Q3116510",
+            "additional_wikidata_ids": [
+                "Q3116510"
+            ]
+        },
+        {
+            "name": "Grille",
+            "category": "Animal",
+            "wikidata_id": "Q655908",
+            "additional_wikidata_ids": [
+                "Q655908"
+            ]
+        },
+        {
+            "name": "Ente",
+            "category": "Animal",
+            "wikidata_id": "Q3736439",
+            "additional_wikidata_ids": [
+                "Q3736439"
+            ]
+        },
+        {
+            "name": "Raubvogel",
+            "category": "Animal",
+            "wikidata_id": "Q107327786",
+            "additional_wikidata_ids": [
+                "Q107327786"
+            ]
+        },
+        {
+            "name": "Kamel",
+            "category": "Animal",
+            "wikidata_id": "Q7375",
+            "additional_wikidata_ids": [
+                "Q7375"
+            ]
+        },
+        {
+            "name": "Hering",
+            "category": "Animal",
+            "wikidata_id": "Q3127419",
+            "additional_wikidata_ids": [
+                "Q3127419"
+            ]
+        },
+        {
+            "name": "M\u00fccke",
+            "category": "Animal",
+            "wikidata_id": "Q7367",
+            "additional_wikidata_ids": [
+                "Q7367"
+            ]
+        },
+        {
+            "name": "Schmetterling",
+            "category": "Animal",
+            "wikidata_id": "Q11946202",
+            "additional_wikidata_ids": [
+                "Q11946202"
+            ]
+        },
+        {
+            "name": "Barsch",
+            "category": "Animal",
+            "wikidata_id": "Q600262",
+            "additional_wikidata_ids": [
+                "Q600262"
+            ]
+        },
+        {
+            "name": "Meise",
+            "category": "Animal",
+            "wikidata_id": "Q168473",
+            "additional_wikidata_ids": [
+                "Q168473"
+            ]
+        },
+        {
+            "name": "Kastanie",
+            "category": "Animal",
+            "wikidata_id": "Q22705",
+            "additional_wikidata_ids": [
+                "Q22705"
+            ]
+        },
+        {
+            "name": "Eichkatze",
+            "category": "Animal",
+            "wikidata_id": "Q9482",
+            "additional_wikidata_ids": [
+                "Q9482"
+            ]
+        },
+        {
+            "name": "Bussard",
+            "category": "Animal",
+            "wikidata_id": "Q25385",
+            "additional_wikidata_ids": [
+                "Q25385"
+            ]
+        },
+        {
+            "name": "Spitz",
+            "category": "Animal",
+            "wikidata_id": "Q854787",
+            "additional_wikidata_ids": [
+                "Q854787"
+            ]
+        },
+        {
+            "name": "R\u00e4upchen",
+            "category": "Animal",
+            "wikidata_id": "Q81825",
+            "additional_wikidata_ids": [
+                "Q81825"
+            ]
+        },
+        {
+            "name": "Lamm",
+            "category": "Animal",
+            "wikidata_id": "Q4575936",
+            "additional_wikidata_ids": [
+                "Q4575936"
+            ]
+        },
+        {
+            "name": "K\u00fcken",
+            "category": "Animal",
+            "wikidata_id": "Q1642639",
+            "additional_wikidata_ids": [
+                "Q1642639"
+            ]
+        },
+        {
+            "name": "H\u00e4her",
+            "category": "Animal",
+            "wikidata_id": "Q25354",
+            "additional_wikidata_ids": [
+                "Q25354"
+            ]
+        },
+        {
+            "name": "Grille",
+            "category": "Animal",
+            "wikidata_id": "Q655908",
+            "additional_wikidata_ids": [
+                "Q655908"
+            ]
+        },
+        {
+            "name": "H\u00fchnchen",
+            "category": "Animal",
+            "wikidata_id": "Q1642639",
+            "additional_wikidata_ids": [
+                "Q1642639"
+            ]
+        },
+        {
+            "name": "Marderweibchen",
+            "category": "Animal",
+            "wikidata_id": "Q26533",
+            "additional_wikidata_ids": [
+                "Q26533"
+            ]
+        },
+        {
+            "name": "Kramtsvogel",
+            "category": "Animal",
+            "wikidata_id": "Q25777",
+            "additional_wikidata_ids": [
+                "Q25777"
+            ]
+        },
+        {
+            "name": "Wildente",
+            "category": "Animal",
+            "wikidata_id": "Q25348)",
+            "additional_wikidata_ids": [
+                "Q25348)"
+            ]
+        },
+        {
+            "name": "Wanderhuhn",
+            "category": "Animal",
+            "wikidata_id": "Q87946388",
+            "additional_wikidata_ids": [
+                "Q87946388"
+            ]
+        },
+        {
+            "name": "Opferlamm",
+            "category": "Animal",
+            "wikidata_id": "Q7397369",
+            "additional_wikidata_ids": [
+                "Q7397369"
+            ]
+        },
+        {
+            "name": "Ochse",
+            "category": "Animal",
+            "wikidata_id": "Q473194",
+            "additional_wikidata_ids": [
+                "Q473194"
+            ]
+        },
+        {
+            "name": "Geziefer",
+            "category": "Animal",
+            "wikidata_id": "Q987269",
+            "additional_wikidata_ids": [
+                "Q987269"
+            ]
+        },
+        {
+            "name": "Larve",
+            "category": "Animal",
+            "wikidata_id": "Q129270",
+            "additional_wikidata_ids": [
+                "Q129270"
+            ]
+        },
+        {
+            "name": "Pointer",
+            "category": "Animal",
+            "wikidata_id": "Q769804",
+            "additional_wikidata_ids": [
+                "Q769804"
+            ]
+        },
+        {
+            "name": "Hummel",
+            "category": "Animal",
+            "wikidata_id": "Q25407",
+            "additional_wikidata_ids": [
+                "Q25407"
+            ]
+        },
+        {
+            "name": "Iltis",
+            "category": "Animal",
+            "wikidata_id": "Q46600415",
+            "additional_wikidata_ids": [
+                "Q46600415"
+            ]
+        },
+        {
+            "name": "Rasenameise",
+            "category": "Animal",
+            "wikidata_id": "Q1206458",
+            "additional_wikidata_ids": [
+                "Q1206458"
+            ]
+        },
+        {
+            "name": "Vorstehhund",
+            "category": "Animal",
+            "wikidata_id": "Q769804",
+            "additional_wikidata_ids": [
+                "Q769804"
+            ]
+        },
+        {
+            "name": "Kater",
+            "category": "Animal",
+            "wikidata_id": "Q113946152",
+            "additional_wikidata_ids": [
+                "Q113946152"
+            ]
+        },
+        {
+            "name": "Setter",
+            "category": "Animal",
+            "wikidata_id": "Q39640",
+            "additional_wikidata_ids": [
+                "Q39640"
+            ]
+        },
+        {
+            "name": "Bergunke",
+            "category": "Animal",
+            "wikidata_id": "Q606431",
+            "additional_wikidata_ids": [
+                "Q606431"
+            ]
+        },
+        {
+            "name": "Vogel",
+            "category": "Animal",
+            "wikidata_id": "Q5113",
+            "additional_wikidata_ids": [
+                "Q5113"
+            ]
+        },
+        {
+            "name": "Erpel",
+            "category": "Animal",
+            "wikidata_id": "Q28060830",
+            "additional_wikidata_ids": [
+                "Q28060830"
+            ]
+        },
+        {
+            "name": "Kamm",
+            "category": "Animal",
+            "wikidata_id": "Q2390770",
+            "additional_wikidata_ids": [
+                "Q2390770"
+            ]
+        },
+        {
+            "name": "Ara",
+            "category": "Animal",
+            "wikidata_id": "Q219035",
+            "additional_wikidata_ids": [
+                "Q219035"
+            ]
         }
     ]
 }
