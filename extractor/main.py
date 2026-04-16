@@ -138,7 +138,7 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
         )
     ):
         lemmatized_text = [
-            token.lemma_ for token in annotated_segment if token.pos_ == NOUN_POS
+            token.lemma_ for token in annotated_segment 
         ]
         # count and intersect
         vocabulary = set(lemmatized_text)
