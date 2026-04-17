@@ -31,8 +31,6 @@ from pydantic import BaseModel
 from pydantic.networks import HttpUrl
 
 app = FastAPI()
-NOUN_POS = "NOUN"
-
 
 class Language(str, Enum):
     EN = "en"
@@ -92,7 +90,7 @@ class UrlDescriptor(BaseModel):
 class SegmentEntityListUrl(BaseModel):
     segments: list[Segment]
     language: Language
-    entity_list: Optional[UrlDescriptor]
+    entity_list: Optional[UrlDescriptor] = None
 
     def get_entity_list(self) -> UrlDescriptor:
         if self.entity_list:
@@ -113,6 +111,8 @@ def read_entity_list(url: str) -> NameInfoMeta:
     name_info_meta = NameInfoMeta(**response.json())
     return name_info_meta
 
+def get_noun_pos():
+    return "NOUN" if "--noun-only" in sys.argv else "ANY"
 
 @app.post("/extractor")
 def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequencyMeta:
@@ -124,7 +124,7 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
     for entry in name_info_meta.entity_list:
         if entry.name not in name_to_name_info:
             name_to_name_info[entry.name] = []
-        name_to_name_info[entry.name].append(entry.dict())
+        name_to_name_info[entry.name].append(entry.model_dump())
 
     unique_names = set([entry.name for entry in name_info_meta.entity_list])
 
@@ -137,9 +137,12 @@ def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequenc
             disable=["parser", "ner"],
         )
     ):
+        noun_pos = get_noun_pos()
         lemmatized_text = [
-            token.lemma_ for token in annotated_segment if token.pos_ == NOUN_POS
+            token.lemma_ for token in annotated_segment
+            if noun_pos == "ANY" or token.pos_ == noun_pos
         ]
+
         # count and intersect
         vocabulary = set(lemmatized_text)
         counted = Counter(lemmatized_text)

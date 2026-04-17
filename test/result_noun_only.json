@@ -10,16 +10,8 @@
       "wikidata_id": "Q29013",
       "category": "Animal",
       "additional_wikidata_ids": [],
-      "segment_frequencies": { "P0": 1, "P1": 1 },
-      "overall_frequency": 2
-    },
-    {
-      "name": "Dalmatiner",
-      "wikidata_id": "Q17504",
-      "category": "Animal",
-      "additional_wikidata_ids": [],
-      "segment_frequencies": { "P1": 2 },
-      "overall_frequency": 2
+      "segment_frequencies": { "P0": 1 },
+      "overall_frequency": 1
     },
     {
       "name": "Dobermann",
