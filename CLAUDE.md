@@ -22,7 +22,7 @@ docker run -p 8000:80 ecocor-extractor
 curl -X POST -H "Content-Type: application/json" 127.0.0.1:8000/extractor --data-binary @test/test.json
 ```
 
-Always run `python -m unittest test/test_extractor.py` after making changes to `extractor/main.py`.
+Always run `python -m unittest test/test_extractor.py` after making any code changes.
 
 ## Architecture
 
