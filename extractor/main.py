@@ -17,11 +17,14 @@ Output Format: [{"name":"xyz", "wikidata_id":["Q12345"],"category":"plant",
 This scripts requires `spacy` and `FastAPI` to be installed. Additionally the spacy models
 for English and German must be downloaded: `de_core_news_sm`, `en_core_web_sm` """
 
+import json
 import sys
 from collections import Counter
+from contextlib import asynccontextmanager
 from datetime import date
 from enum import Enum
 from functools import cache
+from pathlib import Path
 from typing import Optional
 
 import requests
@@ -30,7 +33,8 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from pydantic.networks import HttpUrl
 
-app = FastAPI()
+WORD_LIST_DIR = Path(__file__).parent.parent / "word_list"
+
 
 class Language(str, Enum):
     EN = "en"
@@ -43,10 +47,10 @@ class Language(str, Enum):
             Language.EN: spacy.load("en_core_web_sm"),
         }[self]
 
-    def get_entity_list(self) -> str:
+    def bundled_word_list_path(self) -> Path:
         return {
-            Language.DE: "https://raw.githubusercontent.com/EcoCor/ecocor-extractor/main/word_list/german/animal_plant-de.json",
-            Language.EN: "https://raw.githubusercontent.com/EcoCor/ecocor-extractor/main/word_list/english/animal_plant-en.json",
+            Language.DE: WORD_LIST_DIR / "german" / "animal_plant-de.json",
+            Language.EN: WORD_LIST_DIR / "english" / "animal_plant-en.json",
         }[self]
 
 
@@ -92,11 +96,25 @@ class SegmentEntityListUrl(BaseModel):
     language: Language
     entity_list: Optional[UrlDescriptor] = None
 
-    def get_entity_list(self) -> UrlDescriptor:
-        if self.entity_list:
-            return self.entity_list
-        else:
-            return UrlDescriptor(url=self.language.get_entity_list())
+
+def _load_entity_list_from_file(path: Path) -> NameInfoMeta:
+    with open(path) as f:
+        return NameInfoMeta(**json.load(f))
+
+
+@cache
+def _get_default_entity_list(lang: "Language") -> NameInfoMeta:
+    return _load_entity_list_from_file(lang.bundled_word_list_path())
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    for lang in Language:
+        _get_default_entity_list(lang)
+    yield
+
+
+app = FastAPI(lifespan=lifespan)
 
 
 @app.get("/")
@@ -108,17 +126,21 @@ def root():
 def read_entity_list(url: str) -> NameInfoMeta:
     response = requests.get(url)
     response.raise_for_status()
-    name_info_meta = NameInfoMeta(**response.json())
-    return name_info_meta
+    return NameInfoMeta(**response.json())
+
 
 def get_noun_pos():
     return "NOUN" if "--noun-only" in sys.argv else "ANY"
+
 
 @app.post("/extractor")
 def process_text(segments_entity_list: SegmentEntityListUrl) -> NameInfoFrequencyMeta:
     nlp = segments_entity_list.language.get_spacy_model()
 
-    name_info_meta = read_entity_list(segments_entity_list.get_entity_list().url)
+    if segments_entity_list.entity_list:
+        name_info_meta = read_entity_list(str(segments_entity_list.entity_list.url))
+    else:
+        name_info_meta = _get_default_entity_list(segments_entity_list.language)
     name_to_name_info: dict[str, list[dict[str, str]]] = {}
 
     for entry in name_info_meta.entity_list:
@@ -180,8 +202,6 @@ if __name__ == "__main__":
     if len(args) != 2:
         print(f"usage: {args[0]} path/to/test/file")
         exit(-1)
-    import json
-
     with open(args[1]) as json_in:
         segments = json.load(json_in)
     segments_entity_list = SegmentEntityListUrl(**segments)
