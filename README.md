@@ -23,6 +23,19 @@ It is required that the keys in the Input and the WordList are as below:
 This scripts requires `spacy` and `FastAPI` to be installed. Additionally the spacy models
 for English and German must be downloaded: `de_core_news_sm`, `en_core_web_sm`
 
+### Local Setup
+
+```bash
+python3.12 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Run the dev server:
+```bash
+uvicorn extractor.main:app --host 0.0.0.0 --port 8000
+```
+
 ### Test
 
 The script was tested using [uvicorn](https://fastapi.tiangolo.com/lo/#installation).
